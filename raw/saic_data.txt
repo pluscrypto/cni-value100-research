@@ -1,0 +1,147 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="format-detection" content="telephone=no,email=no,address=no">
+    <meta name="Keywords" content="上海汽车集团股份有限公司,上汽集团,SAICMOTOR,600104" />
+    <meta name="Description" content="上海汽车集团股份有限公司（简称“上汽集团”，股票代码600104）于2011年实现整体上市。上汽集团2025年实现整车批售450.7万辆，零售467万辆，继续保持国内行业领先。其中，自主品牌销量292.8万辆，同比增长21.6%，销量占比达65%。新能源车销量164.3万辆，同比增长超过33%。海外市场销量107.1万辆，同比增长3.1%。2026年7月，上汽集团以2025年度合并报表913.01亿美元的营业收入，名列《财富》杂志世界500强第125位，第22次上榜。" />
+    <title>上汽集团官网</title>
+
+    <link rel="stylesheet" href="/chinese/css/global.css" />
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="/chinese/css/ie.css" />
+    <![endif]-->
+    <script src="/chinese/js/jquery.js"></script>
+    <script src="/chinese/js/global.js"></script>
+    <!-- tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-H9PXF13DXJ"></script>
+    <script>
+	window.dataLayer = window.dataLayer || []; 
+	function gtag(){dataLayer.push(arguments);} 
+	gtag('js', new Date()); 
+		
+	gtag('config', 'G-H9PXF13DXJ'); 
+    </script>
+</head>
+<body>
+  <div class="header">
+  <div class="section">
+    <h1 class="logo"><a href="/chinese/index.shtml" title="上汽集团">上汽集团</a></h1>
+    <div class="share"> <span class="ico-text"><a href="/chinese/index.shtml" title="上汽集团官网">上汽集团官网</a></span> <span class="ico ico-weixin"><span class="code-weixin"></span></span> <a href="http://weibo.com/saicmotor" class="ico ico-weibo" target="_blank"></a> <span class="ico-text"><a href="/english/index.shtml" title="ENGLISH">ENGLISH</a></span> </div>
+  </div>
+</div>
+
+  <div class="site-nav">
+	<div class="section">
+		<ul>
+			<li><a href="/chinese/index.shtml" title="首页">首页</a></li>
+			<li><a href="/chinese/gsgk/gsjs/index.shtml" title="公司概况">公司概况</a></li>
+			<li><a href="/chinese/xwzx/index.shtml" title="新闻中心">新闻中心</a></li>
+			<li><a href="/chinese/rlzy/index.html" title="人才招聘" target="_blank">人才招聘</a></li>
+			<li class="active"><a href="/chinese/tzzgx/index.shtml" title="投资者关系">投资者关系</a></li>
+			<li><a href="/chinese/esg/index.shtml" title="ESG可持续发展">ESG可持续发展</a></li>
+			<li><a href="/chinese/xxgk/index.shtml" title="信息公开">信息公开</a></li>
+		</ul>
+	</div>
+</div>
+<div class="wrap">
+	<div class="x-wrap">
+		<div class="x-aside">
+			<h2>投资者关系</h2>
+						<div class="x-menu">
+				<ul>
+					<li class="hover"><a href="/chinese/tzzgx/jbqk/xssj/index.shtml" title="基本情况">基本情况</a>
+						<ul>
+							<li><a href="/chinese/tzzgx/jbqk/xssj/index.shtml" title="销售数据">销售数据</a></li>
+							<li class="hover"><a href="/chinese/tzzgx/jbqk/cwsj/index.shtml" title="财务数据">财务数据</a></li>
+							<li><a href="/chinese/tzzgx/jbqk/gdqk/index.shtml" title="股东情况">股东情况</a></li>
+							<li><a href="/chinese/tzzgx/jbqk/gbbhjfhqk/index.shtml" title="分红回购">分红回购</a></li>
+                            <li><a href="/chinese/tzzgx/jbqk/cjwt/index.shtml" title="常见问题">常见问题</a></li>
+						</ul>
+					</li>
+					<li><a href="/chinese/tzzgx/ggb/lsgg/index.shtml" title="公告板">公告板</a>
+						<ul>
+							<li><a href="/chinese/tzzgx/ggb/lsgg/index.shtml" title="临时公告">临时公告</a></li>
+							<li><a href="/chinese/tzzgx/ggb/dqgg/index.shtml" title="定期报告">定期报告</a></li>
+						</ul>
+					</li>
+					<li><a href="/chinese/tzzgx/tzzhd/yjtj/index.shtml" title="业绩推介材料">业绩推介材料</a></li>
+					<li><a href="/chinese/tzzgx/gsglzd/index.shtml" title="公司基本管理制度">公司基本管理制度</a></li>
+					<li><a href="/chinese/tzzgx/xgzl/gddhzl/index.shtml" title="相关资料">相关资料</a></li>				</ul>
+			</div>
+			<!-- <div class="x-contact">
+				<h3>联系我们：</h3>
+				<ul>
+					<li>电话：021-22011138</li>
+					<li>邮箱：saicmotor@saic.com.cn</li>
+				</ul>
+			</div> -->
+		</div>
+		<div class="x-primary">
+			<!--div class="only-pic"><img src="/chinese/images/banner/financial.jpg" alt="" /></div-->
+			<div class="panel">
+				<div class="panel-header">
+					<h2>财务数据</h2>
+				</div>
+				<div class="panel-body">
+					<DIV class=data-wrap>
+<TABLE class=table cellSpacing=0 cellPadding=0>
+<THEAD>
+<TR>
+<TH width=280></TH>
+<TH>2026年1-6月</TH>
+<TH>2025年全年</TH>
+<TH>2024年全年</TH>
+<TH>2023年全年</TH></TR></THEAD>
+<TBODY>
+<TR class=odd>
+<TD style="TEXT-ALIGN: left">营业总收入（亿元）</TD>
+<TD>2986.52</TD>
+<TD>6562.44</TD>
+<TD>6275.90</TD>
+<TD>7447.05</TD></TR>
+<TR class=even>
+<TD style="TEXT-ALIGN: left">归属于上市公司股东的净利润（亿元）</TD>
+<TD>51.52</TD>
+<TD>101.06</TD>
+<TD>16.66</TD>
+<TD>141.06</TD></TR>
+<TR class=odd>
+<TD style="TEXT-ALIGN: left">经营活动产生的现金流量净额（亿元）</TD>
+<TD>543.03</TD>
+<TD>343.07</TD>
+<TD>692.68</TD>
+<TD>423.34</TD></TR>
+<TR class=even>
+<TD style="TEXT-ALIGN: left">归属于上市公司股东的净资产（亿元）</TD>
+<TD>2987.57</TD>
+<TD>2988.12</TD>
+<TD>2878.40</TD>
+<TD>2863.19</TD></TR>
+<TR class=odd>
+<TD style="TEXT-ALIGN: left">基本每股收益（元）</TD>
+<TD>0.451</TD>
+<TD>0.885</TD>
+<TD>0.145</TD>
+<TD>1.226</TD></TR>
+<TR class=even>
+<TD style="TEXT-ALIGN: left">加权平均净资产收益率（%）</TD>
+<TD>1.72</TD>
+<TD>3.43</TD>
+<TD>0.58</TD>
+<TD>4.98</TD></TR></TBODY></TABLE></DIV>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="footer">
+	<div class="section">
+		<div class="footer-nav"><a href="/chinese/fzlm/flsm/index.shtml" title="法律声明">法律声明</a><span class="sep">|</span><a href="/chinese/fzlm/flsm/index.shtml" title="网站地图">网站地图</a><span class="sep">|</span><a href="/chinese/fzlm/flsm/index.shtml" title="联系我们">联系我们</a><span class="copyright">©2026 上海汽车集团股份有限公司 版权所有</span></div>
+		<div class="footer-icp"><img src="/chinese/images/sign.gif" alt="" /><span class="icp"><a href="https://beian.miit.gov.cn" target="_blank">沪ICP备15019110号-2</a></span><img src="/chinese/images/police.png" alt="" /><span class="icp"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010602000156" target="_blank">沪公网安备 31010602000156号</a></span></div>
+	</div>
+</div>
+</body>
+</html>
+<!--Generated By TurboCMS5.0 Build5030,2026-9-1 13:48:08,http://www.TurboCMS.com-->

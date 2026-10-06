@@ -1,0 +1,195 @@
+                                                                                                                                                                                 Index Factsheet
+
+
+
+
+MSCI World Quality Index (USD)
+
+The MSCI World Quality Index is based on MSCI World, its parent index, which includes large and mid cap stocks across 23 Developed
+Market (DM) countries*. The index aims to capture the performance of quality growth stocks by identifying stocks with high quality scores
+based on three main fundamental variables: high return on equity (ROE), stable year-over-year earnings growth and low ﬁnancial leverage.
+The MSCI Quality Indexes complement existing MSCI Factor Indexes and can provide an effective diversiﬁcation role in a portfolio of factor
+strategies.
+For a complete description of the index methodology, please see Index methodology - MSCI.
+
+CUMULATIVE INDEX PERFORMANCE — NET RETURNS (USD)                                                                                                    ANNUAL PERFORMANCE (%)
+(SEP 2011 – SEP 2026)
+                                                                                                                                                     Year      MSCI World Quality        MSCI World
+
+            MSCI World Quality                                                                                                                       2025               16.54                 21.09
+                                                                                                                                          716.79
+            MSCI World                                                                                                                               2024               18.44                 18.67
+                                                                                                                                                     2023               32.39                 23.79
+ 600
+                                                                                                                                          578.64     2022              -22.21                -18.14
+                                                                                                                                                     2021               25.66                 21.82
+                                                                                                                                                     2020               22.20                 15.90
+                                                                                                                                                     2019               36.08                 27.67
+ 400
+                                                                                                                                                     2018                -5.50                 -8.71
+                                                                                                                                                     2017               25.96                 22.40
+                                                                                                                                                     2016                 4.55                  7.51
+ 200
+                                                                                                                                                     2015                 3.71                 -0.87
+                                                                                                                                                     2014                 8.45                  4.94
+                                                                                                                                                     2013               27.06                 26.68
+  50                                                                                                                                                 2012               13.05                 15.83
+   Sep 11    Dec 12   Mar 14     Jun 15   Sep 16     Dec 17     Mar 19       Jun 20   Sep 21     Dec 22        Mar 24       Jun 25     Sep 26
+
+
+
+INDEX PERFORMANCE — NET RETURNS (%) (SEP 30, 2026)                                                                                                  FUNDAMENTALS (SEP 30, 2026)
+                                                                                                                   ANNUALIZED
+
+                                           1 Mo         3 Mo          1 Yr        YTD           3 Yr           5 Yr         10 Yr JunSince           Div Yld (%)      P/E        P/E Fwd         P/BV
+                                                                                                                                     30, 1994
+
+  MSCI World Quality                       -0.28        0.97         14.89       10.41      19.67          11.59            14.45      11.56           1.20          25.97        21.36          8.90
+
+  MSCI World                               -1.19        1.88         15.24       11.75      21.40          11.89            12.81      8.48            1.52          22.69        17.92          4.10
+
+
+INDEX RISK AND RETURN CHARACTERISTICS (JUN 01, 1994 – SEP 30, 2026)
+                                                                              ANNUALIZED STD DEV (%) 2                       SHARPE RATIO 2 , 3                        MAXIMUM DRAWDOWN
+                                                                                                                                                    Since
+                                                    Tracking Turnover
+                                           Beta                                3 Yr      5 Yr          10 Yr         3 Yr       5 Yr     10 Yr     Jun 01,     (%)           Period YYYY-MM-DD
+                                                    Error (%) (%) 1                                                                                 1994
+
+  MSCI World Quality                       0.90       4.49       25.48        12.48     15.98      15.14            1.15       0.54      0.81       0.65     48.40      2007-10-31—2009-03-09
+
+  MSCI World                               1.00       0.00          3.18      11.85     15.06      14.88            1.33       0.58      0.72       0.44     57.82      2007-10-31—2009-03-09
+                                           1                    2                                              3
+                                               Last 12 months       Based on monthly net returns data              Based on NY FED Overnight SOFR from Sep 1 2021 & on ICE LIBOR 1M prior that date
+
+
+
+
+* Developed Market countries include: Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Hong Kong, Ireland, Israel, Italy, Japan, Netherlands, New Zealand,
+Norway, Portugal, Singapore, Spain, Sweden, Switzerland, the UK and the US.
+
+The MSCI World Quality Index was launched on Dec 18, 2012. Data prior to the launch date is back-tested test (i.e. calculations of how the index might have performed over
+that time period had the index existed). There are frequently material differences between back-tested performance and actual results. Past performance -- whether actual or
+back-tested -- is no indication or guarantee of future performance.
+
+
+
+                                                                                                                                                             MSCI World Quality Index (USD) | msci.com
+SEP 30, 2026                                                                                                                                                          Index Factsheet
+
+INDEX CHARACTERISTICS                                                             TOP 10 CONSTITUENTS
+                    MSCI World Quality            MSCI World                                                                  Country       Index         Parent                    Sector
+ Number of                      291                        1,249                                                                           Wt. (%)         Index
+                                                                                                                                                          Wt. (%)
+ Constituents                                                                        MICROSOFT CORP                             US           5.90           4.00               Info Tech
+                                       Weight (%)                                    META PLATFORMS A                           US           5.50           1.76            Comm Srvcs
+ Largest                       5.90                         5.81                     APPLE                                      US           5.35           5.41               Info Tech
+ Smallest                      0.01                         0.00                     NVIDIA                                     US           4.97           5.81               Info Tech
+ Average                       0.34                         0.08                     BROADCOM                                   US           4.10           1.76               Info Tech
+ Median                        0.09                         0.03                     LILLY (ELI) & COMPANY                      US           3.50           1.02             Health Care
+                                                                                     ASML HLDG                                  NL           2.87           0.78               Info Tech
+                                                                                     VISA A                                     US           2.63           0.66              Financials
+                                                                                     ALPHABET A                                 US           2.38           2.23            Comm Srvcs
+                                                                                     JOHNSON & JOHNSON                          US           2.02           0.70             Health Care
+                                                                                     Total                                                  39.24          24.14
+
+
+
+FACTORS - KEY EXPOSURES THAT DRIVE RISK AND RETURN
+MSCI FACTOR BOX                                                                                                             MSCI FaCS
+                 UNDERWEIGHT          NEUTRAL              OVERWEIGHT
+                                                                                                                                         VALUE
+                                                                                                                                         Relatively Inexpensive Stocks
+
+                                                                                                                                         LOW SIZE
+                                                                                                                                         Smaller Companies
+
+                                                                                                                                         MOMENTUM
+                                                                                                                                         Rising Stocks
+
+                                                                                                                                         QUALITY
+                                                                                                                                         Sound Balance Sheet Stocks
+
+                                                                                                                                         YIELD
+                                                                                                                                         Cash Flow Paid Out
+
+                                                                                                                                         LOW VOLATILITY
+                                                                                                                                         Lower Risk Stocks
+
+
+                                                                                                                            MSCI FaCS provides absolute factor exposures
+                                                                                                                            relative to a
+         <-1.5                            0                               +1.5<                                             broad global index - MSCI ACWI IMI.
+                           MSCI World Quality     MSCI World
+                                                                                                                            Neutral factor exposure (FaCS = 0) represents
+                                                                                                                            MSCI ACWI IMI.
+
+
+
+SECTOR WEIGHTS                                                                                    COUNTRY WEIGHTS
+         11.56%                                                                                                                                                            4.06%
+                                                                                  8.89%
+
+                                                                                  7.42%                                                                                    3.75%
+        12.68%
+                                                                                                                                                                           3.66%
+                                                                                  3.57%
+                                                                                                                                                                           3.2%
+                                                                                  2.47%
+        14.58%                                                                                                                                                             6.7%
+                                                                                  0.13%
+
+                                                                                  0.07%                    78.64%
+
+                                                                                  38.63%
+
+
+
+
+   Information Technology 38.63%       Health Care 14.58%          Industrials 12.68%                United States 78.64%      Switzerland 4.06%     Japan 3.75%    United Kingdom 3.66%
+
+   Communication Services 11.56%        Financials 8.89%       Consumer Staples 7.42%                Netherlands 3.2%       Other 6.7%
+
+   Consumer Discretionary 3.57%       Materials 2.47%       Real Estate 0.13%
+
+   Energy 0.07%
+
+
+
+
+                                                                                                                                              MSCI World Quality Index (USD) | msci.com
+SEP 30, 2026                                                                                                                                                                            Index Factsheet
+
+
+
+MSCI FACTOR BOX AND FaCS FRAMEWORK (Please refer to complete description of the MSCI FaCS methodology here)
+MSCI FaCS is a standard method for evaluating and reporting the Factor characteristics of equity portfolios. MSCI FaCS consists
+of Factor Groups (e.g. Value, Size, Momentum, Quality, Yield, and Volatility) that have been extensively documented in academic
+literature and validated by MSCI Research as key drivers of risk and return in equity portfolios. These Factor Groups are constructed
+by aggregating 16 factors (e.g. Book-to-Price, Earnings/Dividend Yields, LT Reversal, Leverage, Earnings Variability/Quality, Beta)
+from the latest Barra global equity factor risk model, GEMLT, designed to make fund comparisons transparent and intuitive for use.
+The MSCI Factor Box, which is powered by MSCI FaCS, provides a visualization designed to easily compare absolute exposures
+of funds/indexes and their benchmarks along 6 Factor Groups that have historically demonstrated excess market returns over
+the long run.
+
+
+
+
+ABOUT MSCI
+MSCI (NYSE: MSCI Inc.) strengthens global markets by connecting participants across the ﬁnancial ecosystem with a common language. Our research-based data, analytics and indexes, supported by
+advanced technology, set standards for global investors and help our clients understand risks and opportunities so they can make better decisions and unlock innovation. We serve asset managers and
+owners, private-market sponsors and investors, hedge funds, wealth managers, banks, insurers and corporates. To learn more, please visit www.msci.com.
+
+The data, data feeds, databases, reports, text, graphs, charts, images, videos, recordings, models, metrics, analytics, indexes, assessments, ratings, scores, software, websites, products, services and other
+information delivered in connection with this notice (the “Information”): (a) are proprietary information of MSCI and its suppliers, (b) may not be used for commercial purposes without prior written permission
+from MSCI Inc. or its afﬁliates (“MSCI”), and (c) are not investment advice and must not be relied on as such. The Information and its use are further subject to the disclaimer at https://www.msci.com/
+legal/notice-and-disclaimer. As detailed therein, MSCI AND ITS SUPPLIERS MAKE NO EXPRESS OR IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR OTHERWISE
+WITH RESPECT TO THE INFORMATION HEREIN AND DISCLAIM ALL LIABILITY TO THE MAXIMUM EXTENT PERMITTED BY LAW. For information about how MSCI collects and uses personal data, refer
+to https://www.msci.com/privacy-pledge.
+
+© 2026 MSCI Inc. All rights reserved.
+
+
+
+                                                                                                                                                            MSCI World Quality Index (USD) | msci.com
+

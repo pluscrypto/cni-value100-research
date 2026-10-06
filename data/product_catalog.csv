@@ -1,0 +1,13 @@
+﻿fundCode,fundName,enFundName,fundDate,fundScale,fundType,enFundType,enFoundLocation,foundLocation,fundManger,enFundManger,fundIndexCode,fundNetValue,dateStr,established_china_date
+159263,易方达国证价值100ETF,E Fund CNI Value 100 ETF,1751212800000,50.84,ETF,ETF,Shenzhen Stock Exchange,深圳证券交易所,易方达基金管理有限公司,"E Fund Management Co.,Ltd.",980081.CNI,1.0341,2026-06-30 00:00:00,2025-06-30
+025497,易方达国证价值100ETF联接A,E Fund CNI Value 100 ETF Initiating Feeder Fund-A,1758556800000,4.21,ETF联接,Feeder Fund,,,易方达基金管理有限公司,"E Fund Management Co.,Ltd.",980081.CNI,0.9916,2026-06-30 00:00:00,2025-09-23
+159037,鹏华国证价值100ETF,Penghua CNI Value 100 ETF,1779897600000,1.51,ETF,ETF,Shenzhen Stock Exchange,深圳证券交易所,鹏华基金管理有限公司,"Penghua Fund Management Co.,Ltd.",980081.CNI,0.9033,2026-06-30 00:00:00,2026-05-28
+159042,汇添富国证价值100ETF,China Universal CNI Value 100 ETF,1779811200000,1.67,ETF,ETF,Shenzhen Stock Exchange,深圳证券交易所,汇添富基金管理股份有限公司,"China Universal Asset Management Co.,Ltd.",980081.CNI,0.904,2026-06-30 00:00:00,2026-05-27
+027135,华安国证价值100指数A,Huaan CNI Value 100 Index Fund-A,1790611200000,,指数基金,,,,华安基金管理有限公司,"Huaan Fund Management Co., Ltd.",980081.CNI,0.0,,2026-09-29
+158001,嘉实国证价值100ETF,Harvest CNI Value 100 ETF,1787068800000,,ETF,ETF,Shenzhen Stock Exchange,深圳证券交易所,嘉实基金管理有限公司,"Harvest Fund Management Co., Ltd.",980081.CNI,0.0,,2026-08-19
+159096,华夏国证价值100ETF,ChinaAMC CNI Value 100 ETF,1787068800000,,ETF,ETF,Shenzhen Stock Exchange,深圳证券交易所,华夏基金管理有限公司,"China Asset Management Co., Ltd.",980081.CNI,0.0,,2026-08-19
+026935,大成国证价值100指数A,Dacheng CNI Value Index Fund-A,1784131200000,,指数基金,,,,大成基金管理有限公司,"Dacheng Fund Management Co., Ltd.",980081.CNI,0.0,,2026-07-16
+159085,永赢国证价值100ETF,Maxwealth CNI Value 100 ETF,1783612800000,,ETF,ETF,Shenzhen Stock Exchange,深圳证券交易所,永赢基金管理有限公司,"Maxwealth Fund Management Co.,Ltd",980081.CNI,0.0,,2026-07-10
+159079,兴全国证价值100ETF,Aegon-Industrial CNI Value 100 ETF,1784217600000,,ETF,ETF,Shenzhen Stock Exchange,深圳证券交易所,兴证全球基金管理有限公司,"Aegon-Industrial Fund Management Co., Ltd.",980081.CNI,0.0,,2026-07-17
+158043,南方国证价值100ETF,China Southern CNI Value 100 ETF,1790697600000,,ETF,ETF,Shenzhen Stock Exchange,深圳证券交易所,南方基金管理股份有限公司,"China Southern Asset Management Co.,Ltd.",980081.CNI,0.0,,2026-09-30
+159098,招商国证价值100ETF,China Merchants CNI Value 100 ETF,1785859200000,,ETF,ETF,Shenzhen Stock Exchange,深圳证券交易所,招商基金管理有限公司,"China Merchants Fund Management Co., Ltd.",980081.CNI,0.0,,2026-08-05

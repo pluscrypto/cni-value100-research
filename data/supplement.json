@@ -1,0 +1,25 @@
+{
+  "csi300_shared_names": 29,
+  "value100_weight_in_csi300": 61.46000000000001,
+  "growth_shared_names": 0,
+  "required_eps_growth_for_8pct_in_base": 0.03604131848799777,
+  "required_start_pe_for_8pct_in_base": 7.348022129108293,
+  "dividend_halving_stagnation_pe6": {
+    "5": -0.03851411780869396,
+    "10": -0.006628600405163665
+  },
+  "fund_avg_nav_from_management_fee": 7992345000.184162,
+  "fund_half_year_turnover_min_buy_sell_over_avg_nav": 0.896705342477691,
+  "reported_equity_trading_fee_over_avg_nav": 0.0007891548800576886,
+  "latest_price": 1.133,
+  "latest_premium": -0.00035292041644607863,
+  "premium_max_abs": 0.006568778979907375,
+  "approx_20day_turnover_yuan": 312952979.63500005,
+  "top3_years_log_growth_share": 0.5670360529685127,
+  "top3_years": [
+    2014,
+    2017,
+    2024
+  ],
+  "current_index_drawdown": -0.07893727460338262
+}

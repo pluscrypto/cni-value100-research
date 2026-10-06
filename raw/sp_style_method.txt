@@ -1,0 +1,1354 @@
+                     S&P U.S. Style
+                  Indices Methodology
+
+
+
+
+                                       June 2026
+S&P Dow Jones Indices: Index Methodology
+Table of Contents
+Introduction                                                                   3
+                 Index Objective and Highlights                                3
+                 Index Family                                                  3
+                 Supporting Documents                                          3
+Eligibility Criteria                                                           4
+                 Index Universe                                                4
+                 Multiple Share Classes                                        4
+Index Construction                                                             5
+                 Evaluating Growth and Value at the Company Level              5
+                 Establishing Style Baskets                                    6
+                 Capped Growth and Value Indices                               7
+                 Uncapped Growth and Value Indices                             9
+                 Pure Growth and Pure Value Indices                            9
+Style Indices Versus Pure Style Indices                                       11
+Index Maintenance                                                             12
+                 Rebalancing                                                  12
+                 Corporate Actions - Style and Capped Style Indices           12
+                 Corporate Actions - Pure Style Indices                       13
+                 Currency of Calculation and Additional Index Return Series   13
+                 Base Dates                                                   14
+Index Data                                                                    15
+                 Suite of Indices Across the Asset Allocation Spectrum        15
+                 Calculation Return Types                                     15
+Index Governance                                                              16
+                 Index Committee                                              16
+Index Policy                                                                  17
+                 Announcements                                                17
+                 Pro-forma Files                                              17
+                 Holiday Schedule                                             17
+                 Rebalancing                                                  17
+                 Unexpected Exchange Closures                                 17
+                 Recalculation Policy                                         17
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                      1
+                Contact Information                                                         17
+Index Dissemination                                                                         18
+                Tickers                                                                     18
+                Index Alert                                                                 19
+                Index Data                                                                  19
+                Web site                                                                    19
+Appendix A                                                                                  20
+                Calculating Distances from Pure Growth Regions                              20
+Appendix B                                                                                  21
+                Calculating Pure Weight Factors (PWFs) for Additions Between Rebalancings   21
+Appendix C                                                                                  23
+                Methodology Changes                                                         23
+Appendix D                                                                                  25
+                ESG Disclosures                                                             25
+Disclaimer                                                                                  26
+                Performance Disclosure/Back-Tested Data                                     26
+                Intellectual Property Notices/Disclaimer                                    27
+                ESG Indices Disclaimer                                                      29
+
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                    2
+Introduction
+Index Objective and Highlights
+
+The S&P U.S. Style Indices measure the performance of U.S. equities fully or partially categorized as
+either growth or value stocks, as determined by Style Scores for each security. The Style indices are
+either float-adjusted market capitalization (FMC) weighted or capped market capitalization weighted while
+the Pure Style indices are Style Score weighted, subject to the rules described in Index Construction.
+
+The S&P U.S. Style Indices address two distinct needs. The first is for exhaustive style indices that
+provide broad exposure to a certain style segment. The second need is for narrow, style-pure indices.
+
+Index Family
+
+Style Index Series. The indices divide the complete FMC of each underlying index approximately equally
+into growth and value indices. This series covers all stocks in the underlying index universe and is capped
+market capitalization weighted.
+
+Uncapped Style Series. The indices cover all stocks in the underlying index universe. The indices are
+FMC weighted, adjusted by the applicable Style factor.
+
+Pure Style Index Series. The indices identify a portion of the underlying index’s FMC as Pure Growth
+and a portion as Pure Value. There are no overlapping stocks, and stocks are weighted in proportion to
+their relative style propensity.
+
+Supporting Documents
+
+This methodology is meant to be read in conjunction with supporting documents providing greater detail
+with respect to the policies, procedures and calculations described herein. References throughout the
+methodology direct the reader to the relevant supporting document for further information on a specific
+topic. The list of the main supplemental documents for this methodology and the hyperlinks to those
+documents is as follows:
+
+                  Supporting Document                                                      URL
+ S&P Dow Jones Indices’ Equity Indices Policies & Practices
+                                                              Equity Indices Policies & Practices
+ Methodology
+ S&P Dow Jones Indices’ Index Mathematics Methodology         Index Mathematics Methodology
+ S&P Dow Jones Indices’ Float Adjustment Methodology          Float Adjustment Methodology
+ S&P Dow Jones Indices’ Global Industry Classification
+                                                              GICS Methodology
+ Standard (GICS) Methodology
+
+This methodology was created by S&P Dow Jones Indices to achieve the aforementioned objective of
+measuring the underlying interest of each index governed by this methodology document. Any changes to
+or deviations from this methodology are made in the sole judgment and discretion of S&P Dow Jones
+Indices so that the index continues to achieve its objective.
+
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                   3
+Eligibility Criteria
+Index Universe
+
+The indices derive constituents from an underlying index universe. The underlying indices are:
+
+ •    S&P 500                                             •   S&P Composite 1500
+ •    S&P MidCap 400                                      •   S&P 900
+ •    S&P SmallCap 600                                    •   S&P 1000
+
+
+For information on the underlying indices, please refer to the S&P U.S. Indices Methodology, available at
+www.spglobal.com/spdji.
+
+Multiple Share Classes
+
+All publicly listed multiple share class lines are eligible for index inclusion, subject to meeting the eligibility
+criteria. For more information regarding the treatment of multiple share classes, please refer to Approach
+A in the Multiple Share Classes section of the S&P Dow Jones Indices’ Equity Indices Policies & Practices
+Methodology. In the S&P Pure Style Indices the weight determined at the rebalancing is distributed
+proportionally to the market capitalization ratio of the share class lines.
+
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                         4
+Index Construction
+Evaluating Growth and Value at the Company Level
+
+Style Factors. The Style indices measure growth and value along two separate dimensions, with three
+factors each used to measure growth and value. The list of factors used is outlined in the table below.
+
+                       Growth Factors                                               Value Factors
+ Three-Year Net Change in Earnings per Share (Excluding
+                                                          Book Value to Price Ratio
+ Extra Items) over Current Price
+ Three-Year Sales per Share Growth Rate                   Earnings to Price Ratio
+ Momentum (12-Month % Price Change)                       Sales to Price Ratio
+
+
+When earnings from three years prior are not available, then Two-Year Change in Earnings per Share
+(Excluding Extra Items) over Price per Share is used. When earnings from two years prior are not
+available, then One-Year Change in Earnings per Share (Excluding Extra Items) over Price per Share is
+used. If earnings from one year prior are not available, set the factor to zero.
+
+When sales from three years prior are not available, then Two-Year Sales per Share Growth Rate is used.
+When sales from two years prior are not available, then One-Year Sales per Share Growth Rate is used.
+When sales from one year prior are not available, set the factor to zero. If the starting value is less than
+zero, the style factor is multiplied by a factor of negative 1.
+
+When there is not enough trading history to calculate 12-month Momentum, then Momentum is calculated
+from the stock’s listing date.
+
+When Book Value to Price Ratio, Earnings to Price Ratio, or Sales to Price Ratio is not available, the
+factor is set equal to zero.
+
+Style Scores. Raw values for each of the above factors are calculated for each company in the S&P Total
+Market Index (TMI) universe. These raw values are first winsorized to the 90th percentile and then
+standardized by dividing the difference between each company’s raw score and the mean of the entire set
+by the standard deviation of the entire set. A Growth Score for each company is computed as the average
+of the standardized values of the three growth factors. Similarly, a Value Score for each company is
+computed as the average of the standardized values of the three value factors.
+
+At the end of this step each company has a Growth Score and a Value Score, as shown below, with
+growth and value being measured along separate dimensions.
+
+Exhibit 1: Measuring Growth and Value Along Separate Dimensions
+
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                  5
+For Stock X,
+
+Gi, X = Standardized value of Growth Factor I for stock X, I=1 to 3.
+
+Vj, X = Standardized value of Value Factor J for stock X, J=1 to 3.
+
+SGX = Growth Score of X = 1/3 (G1, X + G2, X + G3, X).
+
+SVX = Value Score of X = 1/3 (V1, X + V2, X + V3, X ).
+
+Establishing Style Baskets
+
+Companies within each underlying index are ranked based on growth and value scores. A company with a
+high Growth Score would have a higher Growth Rank, while a company with a low Value Score would
+have a lower Value Rank. For example, the S&P MidCap 400 constituent with the highest Value Score
+would have a Value Rank of 1, while the constituent with the lowest would have a Value Rank of 400.
+
+The index constituents are then sorted in ascending order of the ratio Growth Rank/Value Rank. The
+companies at the top of the list have a higher Growth Rank (or high Growth Score) and a lower Value
+Rank (or low Value Score) and, therefore, exhibit pure growth characteristics. The companies at the top of
+the list, comprising 33% of the total index market capitalization, are designated as the Growth basket.
+
+The companies at the bottom of the list have a higher Value Rank (and Value Score) and a lower Growth
+Rank (and Growth Score) and, therefore, exhibit pure value characteristics. The companies at the bottom
+of the list, comprising 33% of the total index market capitalization, are designated as the Value basket.
+
+The companies in the middle of the list have neither pure growth nor pure value characteristics. The
+distribution of the index universe into style baskets is illustrated below.
+
+Exhibit 2: Style Baskets
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                   6
+Capped Growth and Value Indices
+
+As described earlier, one of the design goals is to construct a Style index series that divides the complete
+FMC of each underlying index approximately equally into growth and value indices while limiting the
+number of stocks that overlap across both.
+
+The Style baskets described above are natural starting points for the Style indices’ construction. 100% of
+a company’s FMC in the Value basket is assigned to the Value index, and 100% of a company’s FMC in
+the Growth basket is assigned to the Growth index.
+
+The middle 34% of FMC consists of companies with similar growth and value ranks. Their FMC is
+distributed among the Style indices based on their distances from the midpoint of the Growth basket and
+the midpoint of the Value basket, as detailed below. The midpoint of each Style region calculates as the
+average of Value Scores and Growth Scores of companies in the Style basket.
+
+For company X,
+
+WV,X = Percent of FMC of company X in the Value Index.
+
+WG,X = Percent of FMC of company X in the Growth Index.
+
+WV,X = DG, X/(DG, X +DV, X).
+
+WG,X = DV, X/(DG, X +DV, X).
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                      7
+WV,X + WG,X = 1.
+
+where:
+
+DG,X and DV,X represent the distances of company X from the midpoint of each Style basket.
+
+The algorithm for computation of DG, X and DV, X is shown in Appendix A.
+
+Further, from the practical point of view of constructing easily replicable baskets, it is essential to avoid
+very small fractions of a stock’s market capitalization being in a particular Style index. Therefore, the
+weights are rounded as follows:
+
+If WV,X ≥ 0.8, WV,X = 1.0 and WG,X = 0.
+
+If WG,X ≥ 0.8, WG,X = 1.0 and WV,X = 0.
+
+Based on back-test results, the total market capitalization is approximately equally divided among the
+growth and value indices. No mathematical procedure is employed to force equal market capitalization for
+the growth and value indices since price movements of constituent stocks would result in inequality
+immediately following any reconstitution.
+
+It is also worth noting that the assignment of the market capitalization of stocks not in Style baskets to
+growth and value indices allows graduated moves and prevents stocks from churning throughout the
+indices at each reconstitution. Further, this procedure results in only 34% of the market capitalization of
+the parent index distributed across both indices: thus, limiting the overlap area and narrowing the Style
+indices.
+
+The index calculates following S&P Dow Jones Indices’ divisor-based index methodology. In addition, the
+index market capitalization for these indices incorporates the Growth and Value Factors.
+
+For information on the Investable Weight Factors (IWF), please refer to S&P Dow Jones Indices’ Float
+Adjustment Methodology.
+
+For more information on index calculations, please refer to S&P Dow Jones Indices’ Index Mathematics
+Methodology.
+
+Constituent Weighting. At each rebalancing, each index is capped market capitalization weighted using
+the following process:
+     1. With prices reflected on the rebalancing reference date, adjusted for any applicable corporate
+        actions, and membership, shares outstanding, IWFs, and Growth/Value Factor as of the
+        rebalancing effective date, weight each company by style adjusted FMC.
+     2. If any company weighs more than 24% cap the company’s weight at 23%, which allows for a 2%
+        buffer.1
+     3. Proportionally redistribute any excess weight to all uncapped companies within the relevant
+        index. The process continues iteratively until no company breaches the 23% weight cap.
+     4. The aggregate weight of companies with weights greater than 4.8% cannot exceed 50% of the
+        total index weight.2
+     5. If the rule in step 4 is breached, rank all companies in descending order by weight and reduce
+        the weight of the smallest company whose weight is greater than 4.8% that causes the step 4
+        breach to 4.5%. Continue the process iteratively until step 4 is satisfied.
+     6. Assign index share amounts to each constituent to arrive at the weights calculated above.
+     7. If, on the third to last business day of March, June, September, or December, a company has an
+        index weight greater than 24%, or the sum of the companies with weights greater than 4.8%
+
+1. The buffer attempts to mitigate the potential for any company to exceed 25% as of the quarter-end diversification requirement
+   date.
+2. The cap is set to allow for a buffer below the 5% limit.
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                                          8
+         exceeds 50%, a secondary reweighting is triggered with the rebalancing effective date after the
+         close of the last business day of the month with any applicable reweighting changes appearing in
+         daily proforma and corporate action files starting on the second to last business day of the
+         month. The secondary reweighting uses the closing prices as of the third to last business day of
+         March, June, September, or December, and membership, shares outstanding, IWFs and
+         Growth/Value Factor as of the rebalancing effective date.
+
+For more information on the index calculation, please refer to the Capped Market Capitalization Weighted
+Indices section of S&P Dow Jones Indices’ Index Mathematics Methodology.
+
+At times, companies may be represented in the S&P U.S. Style Indices by multiple share class lines.
+Maximum weight capping is based on style adjusted company FMC, with the weight of multiple class
+companies allocated proportionally to each share class line based on its FMC as of the rebalancing
+reference date. If no capping is required, both share classes remain in the index at their natural style
+adjusted FMC.
+
+For more information on the capping thresholds, please refer to the Regulatory Capping Requirements
+section of S&P Dow Jones Indices’ Equity Indices Policies & Practices Methodology.
+
+Uncapped Growth and Value Indices
+
+Constituent Weighting. At each rebalancing, each index is FMC weighted, adjusted by the applicable
+Style factor.
+
+Pure Growth and Pure Value Indices
+
+There are no overlapping stocks between these indices. The Style baskets are the only regions used to
+construct the Pure Style indices.
+
+The constituents of the Pure Value index are all stocks for which WV = 1 and SV > (the mean of all
+underlying index value scores + 0.25). Similarly, the constituents of the Pure Growth index are all stocks
+for which WG = 1 and SG > (the mean of all parent index growth scores + 0.25). In other words, all
+constituents of the Value basket except those with the lowest value scores are members of the Pure
+Value index. Similarly, all constituents of the Growth basket except those with the lowest growth scores
+are members of the Pure Growth index.
+
+Further, to avoid stocks with outlying high Style Scores having a very large weight in the index, all Style
+Scores are capped at 2.0 in the Pure Style indices. In other words, for the Pure Style indices, SV = 2.0 if
+SV > 2.0, and SG = 2.0 if SG > 2.0.
+
+The index calculates using the divisor-based methodology of S&P Dow Jones Indices. For example, for
+the S&P SmallCap 600 Pure Value index,
+
+Index Valuet =
+
+
+Index Market Valuet =
+
+where:
+
+IWFX,t = Investable Weight Factor of stock X on date t.
+
+PriceX, t = Price used for stock X in the S&P SmallCap 600 computation on date t.
+
+n = Number of stocks in S&P SmallCap 600 Pure Value Index on date t (note that n ≤ N, the count from
+the previous page).
+
+Modified Index Shares X, t = Shares used for Stock X on date t.
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                     9
+This term calculates in the following manner:
+
+Modified Index Shares X, t =Index Shares X,t * PWFX,t
+
+The Pure Weight Factor (PWF) term ensures the index weights each stock with its Style Score. This is
+accomplished by setting the PWF at the rebalancing date, d, as follows:
+
+PWFX,d = k * SVX / (IWFX,d * Index SharesX,d * PriceX,d)
+
+The constant k is used as a multiplier since SVx/(IWFx,d * Index Sharesx,d * Pricex,d) results in a very
+small value.
+
+The PWF is set only once a year at the index rebalancing. Therefore, only at the rebalancing will the
+stocks be weighted in exact proportion to their Style Scores. The weights of stocks in a Pure Style index
+between rebalancings will depend on their relative price performances.
+
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                   10
+Style Indices Versus Pure Style Indices
+Style indices and Pure Style indices have different characteristics addressing distinct needs. These
+differences are summarized below.
+
+Exhibit 3: Differences Between the Style Index Series and the Pure Style Index Series
+
+           Characteristic                    Style Index Series                       Pure Style Index Series
+                                 Exhaustive, all parent index stocks are
+ Universe coverage                                                          Only Pure Style stocks are covered
+                                 covered
+                                 Stocks that do not have Pure Growth or
+                                 Pure Value characteristics have their
+ Overlapping stocks              market capitalization divided between      None
+                                 Growth and Value indices in proportion
+                                 to their distance from the pure regions.
+ Weighting scheme                Capped market capitalization-weighted      Style Score weighted
+ Breadth                         Broader                                    Narrower
+                                                                            Pure style exposure (For example, deep
+                                 Exposure to the broad style market
+ Usage                                                                      value exposure) or “style spread” strategies,
+                                 (For example, relative value exposure)
+                                                                            quantitative analysis
+
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                                   11
+Index Maintenance
+Rebalancing
+
+The indices rebalance annually, effective after the close on the third Friday of December.1 The reference
+date for growth and value expressions is after the close of the last trading date of the previous month.
+Closing prices as of the second Friday of December are used for setting index weights for the Pure Style
+indices. Style Scores, growth and value midpoint averages, and the Pure Weight Factors (PWFs) reset
+only at the December rebalancing.
+
+For index selection purposes, all S&P U.S. Style Indices use the index universe, shares outstanding, and
+IWF figures as of the rebalancing effective date.
+
+Growth and Value Indices Quarterly Reweighting. For capping purposes, the indices reweight
+quarterly, effective after the close of business on the third Friday of March, June, September, and
+December using a rebalancing reference date as of after the close of the Wednesday prior to the first
+Friday of March, June, September, and December.
+
+Since index shares are assigned based on prices prior to the rebalancing effective date, the actual weight
+of each stock at the rebalancing differs from these weights due to market movements.
+
+Other changes to the U.S. Style Indices are made on an as-needed basis, following the guidelines of the
+underlying index. Changes in response to corporate actions and market developments can be made at
+any time.
+
+Corporate Actions - Style and Capped Style Indices
+
+                                                                                                                       Divisor
+                                                                                                                     Adjustment
+    Underlying Index Action                         Adjustment Made to the Style Index                               Required?
+                                  If the constituent being dropped is a member of the Style index, it is
+                                  removed from the index.
+                                  S&P Dow Jones Indices will announce the WV and WG for the
+                                  replacement stock via the Index Corporate Events report (.SDE).
+
+                                  •    If WV is non-zero, the stock is added to the Value index.
+ Constituent Change
+                                  •     If WG is non-zero, the stock is added to the Growth index.             Yes
+                                  The replacement stock can therefore be added to both Growth and
+                                  Value indices, or to only one of them.
+                                  WV and WG for the new stock are calculated using GICS industry-level
+                                  averages for stocks outside the S&P Total Market Index (TMI), as of
+                                  the prior rebalance, other than spin-offs, and retain their old values for
+                                  inter-index moves.
+ Share Changes Between
+                                  Share count follows parent index share count.                                Yes
+ Quarterly Share Adjustments
+                                  Share count follows parent index share count. In addition, new WV and
+                                  WG for all constituent stocks change at the December rebalancing.
+ Quarterly Share Changes                                                                                       Yes
+                                  These will be pre-announced in a manner similar to quarterly share
+                                  changes.
+                                  Index Membership follows the parent index. The child stock is assigned
+ Spin-Off                                                                                                      No
+                                  the same WV and WG as the parent stock.
+
+
+
+
+1. For purposes of index history, the rebalancings from 1995 to 2004 were in July, and the 2005 rebalancing was in September
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                                         12
+For information on the treatment of corporate actions in the Style Indices, please refer to the Market
+Capitalization Indices section of S&P Dow Jones Indices’ Equity Indices Policies & Practices
+Methodology.
+
+Corporate Actions - Pure Style Indices
+
+                                                                                                             Divisor Adjustment
+   Underlying Index Action                      Adjustment made to Pure Style Index                              Required?
+                               If the constituent being dropped is a member of the Pure Style index, it
+                               is removed from the Pure Style index. The replacement stock can be
+                               added to either the Pure Growth or the Pure Value index, or to neither.
+                               S&P Dow Jones Indices will include the index shares at which the stock
+                               will enter a Pure Style index. The index shares are determined using
+ Constituent Change            the weight and the closing constituent prices on the announcement             Yes
+                               date of the addition. The weight is simply the ratio of the capped Style
+                               Score of the added stock divided by the sum of Style Scores of all
+                               index constituents. For index computation purposes PWFG or PWFV
+                               for the new stock are calculated accordingly using the formula in
+                               Appendix B.
+ Share Changes Between
+                               The weight of stocks is unchanged.                                            No
+ Quarterly Share Adjustments
+                                                                                                             Only on the
+                               The weight of stocks is unchanged during March, June, and September           December quarterly
+                               quarterly share changes. For the annual rebalancing, new constituents         adjustment date—
+ Quarterly Share Changes       and their weights are announced two-to-five days before the December          since it coincides
+                               quarterly date. At the rebalancing, the weight of each stock is simply        with the annual
+                               proportional to its capped Style Score.                                       rebalancing of the
+                                                                                                             Pure Style indices
+                               Index Membership follows the parent index. The child stock is assigned
+                               the same PWF and Style score as the parent stock on the effective
+ Spin-Off                      date of the spin-off. If the parent index migrates the child stock to a new   No
+                               index (i.e., S&P 500 to S&P 400), the PWF for the spin-off is calculated
+                               according to the details in Appendix B.
+                               The weight of stocks is unchanged. Price follows parent index price
+                               change. To keep weights of stocks unchanged following price change,
+ Rights Offering                                                                                             No
+                               Modified Index Shares are adjusted for the stock whose shares are
+                               being changed.
+
+For information on the treatment of corporate actions in the Pure Style Indices, please refer to the Non-
+Market Capitalization Indices section of S&P Dow Jones Indices’ Equity Indices Policies & Practices
+Methodology.
+
+Exchange offers. When a company exchanges its securities for a different series, the Style scores will be
+aggregated at the company level. The Style score for the new series will reflect the combined scores of
+the exchanged securities.
+
+Currency of Calculation and Additional Index Return Series
+
+WMR foreign exchange rates are taken daily at 4:00 PM London Time and used in the calculation of the
+indices. These mid-market fixings are calculated by WMR based on LSEG data and appear on LSEG
+pages.
+
+In addition to the indices detailed in this methodology, additional return series versions of the indices may
+be available, including, but not limited to the following: currency, currency hedged, decrement, fair value,
+inverse, leveraged, and risk control versions. For a list of available indices, please refer to the S&P DJI
+Methodology & Regulatory Status Database.
+
+For information on the calculation of different types of indices, please refer to S&P Dow Jones Indices’
+Index Mathematics Methodology.
+
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                                         13
+For the inputs necessary to calculate certain types of indices, including decrement, dynamic hedged, fair
+value, and risk control indices, please refer to the Parameters documents available at
+www.spglobal.com/spdji.
+
+Base Dates
+
+                                                                                     Base Value
+                         Index                              Base Date      Price Return      Total Return
+ S&P 500 Growth                                        06/30/1995        271.61            496.67
+ S&P 500 Pure Growth                                   06/30/1995        1004.08           1004.09
+ S&P 500 Pure Value                                    06/30/1995        1020.02           1020.10
+ S&P 500 Value                                         06/30/1995        291.12            799.70
+ S&P MidCap 400 Growth                                 06/30/1995        60.40             121.23
+ S&P MidCap 400 Pure Growth                            06/30/1995        1016.60           1016.60
+ S&P MidCap 400 Pure Value                             06/30/1995        997.45            997.51
+ S&P MidCap 400 Value                                  06/30/1995        100.73            223.02
+ S&P SmallCap 600 Growth                               06/30/1995        76.27             96.28
+ S&P SmallCap 600 Pure Growth                          06/30/1995        1005.01           1005.01
+ S&P SmallCap 600 Pure Value                           06/30/1995        1004.47           1004.46
+ S&P SmallCap 600 Value                                06/30/1995        76.22             115.10
+ S&P Composite 1500 Growth                             06/30/1995        1000.04           1000.04
+ S&P Composite 1500 Pure Growth                        06/30/1995        1007.25           1007.25
+ S&P Composite 1500 Pure Value                         06/30/1995        1007.75           1007.80
+ S&P Composite 1500 Value                              06/30/1995        1000.00           1000.00
+ S&P 900 Growth                                        06/30/1995        999.93            999.93
+ S&P 900 Pure Growth                                   06/30/1995        1008.41           1008.41
+ S&P 900 Pure Value                                    06/30/1995        1010.07           1010.14
+ S&P 900 Value                                         06/30/1995        999.96            999.96
+ S&P 1000 Growth                                       06/30/1995        1000.24           1000.24
+ S&P 1000 Pure Growth                                  06/30/1995        1009.50           1009.50
+ S&P 1000 Pure Value                                   06/30/1995        1001.57           1001.59
+ S&P 1000 Value                                        06/30/1995        999.88            999.88
+
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                   14
+Index Data
+Construction of Style and Pure Style indices across the size spectrum allows for a complete suite of
+benchmarking and style investing indices catering to distinct market needs. This is shown below.
+
+Suite of Indices Across the Asset Allocation Spectrum
+
+                               Value                    Blend                           Growth
+                 S&P 500 Value                                         S&P 500 Growth
+ Large-Cap                                       S&P 500
+                 S&P 500 Pure Value                                    S&P 500 Pure Growth
+                 S&P MidCap 400 Value                                  S&P MidCap 400 Growth
+ Mid-Cap                                         S&P MidCap 400
+                 S&P MidCap 400 Pure Value                             S&P MidCap 400 Pure Growth
+                 S&P SmallCap 600 Value                                S&P SmallCap 600 Growth
+ Small-Cap                                       S&P SmallCap 600
+                 S&P SmallCap 600 Pure Value                           S&P SmallCap 600 Pure Growth
+                 S&P Composite 1500 Value                              S&P Composite 1500 Growth
+ All-Cap                                         S&P Composite 1500
+                 S&P Composite 1500 Pure Value                         S&P Composite 1500 Pure Growth
+                 S&P 900 Value                                         S&P 900 Growth
+ Large-Mid                                       S&P 900
+                 S&P 900 Pure Value                                    S&P 900 Pure Growth
+                 S&P 1000 Value                                        S&P 1000 Growth
+ Mid-Small                                       S&P 1000
+                 S&P 1000 Pure Value                                   S&P 1000 Pure Growth
+
+Style and Pure Style indices derived for the S&P Composite 1500, the S&P 900, and the S&P 1000 are
+simply combinations of the Style and Pure Style indices of the subset indices.
+
+For example, the S&P Composite 1500 Pure Value Index is comprised of the Pure Value index
+constituents of the S&P 500, the S&P MidCap 400, and the S&P SmallCap 600. Construction of Style
+baskets and assignment of style weight factors, as in Exhibit 2, are only done at the S&P 500, the S&P
+MidCap 400, and the S&P SmallCap 600 index levels. Scores are reviewed and indices rebalanced every
+December to coincide with the real-world portfolio review process, which typically relies on year-end
+evaluations.
+
+Calculation Return Types
+
+S&P Dow Jones Indices calculates multiple return types which vary based on the treatment of regular
+cash dividends. The classification of regular cash dividends is determined by S&P Dow Jones Indices.
+
+     •     Price Return (PR) versions are calculated without adjustments for regular cash dividends.
+     •     Gross Total Return (TR) versions reinvest regular cash dividends at the close on the ex-date
+           without consideration for withholding taxes.
+     •     Net Total Return (NTR) versions, if available, reinvest regular cash dividends at the close on the
+           ex-date after the deduction of applicable withholding taxes.
+
+In the event there are no regular cash dividends on the ex-date, the daily performance of all three indices
+will be identical.
+
+For a complete list of indices available, please refer to the daily index levels file (“.SDL”).
+
+For more information on the classification of regular versus special cash dividends as well as the tax rates
+used in the calculation of net return, please refer to S&P Dow Jones Indices’ Equity Indices Policies &
+Practices Methodology.
+
+For more information on the calculation of return types, please refer to S&P Dow Jones Indices’ Index
+Mathematics Methodology.
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                   15
+Index Governance
+Index Committee
+
+An Index Committee maintains the indices. All committee members are full-time professional members of
+S&P Dow Jones Indices’ staff. The committee meets regularly. At each meeting, the Index Committee
+may review pending corporate actions that may affect index constituents, statistics comparing the
+composition of the indices to the market, companies that are being considered as candidates for addition
+to an index, and any significant market events. In addition, the Index Committee may revise index policy
+covering rules for selecting companies, treatment of dividends, share counts or other matters.
+
+S&P Dow Jones Indices considers information about changes to its indices and related matters to be
+potentially market moving and material. Therefore, all Index Committee discussions are confidential.
+
+S&P Dow Jones Indices’ Index Committees reserve the right to make exceptions when applying the
+methodology if the need arises. In any scenario where the treatment differs from the general rules stated
+in this document or supplemental documents, clients will receive sufficient notice, whenever possible.
+
+In addition to the daily governance of indices and maintenance of index methodologies, at least once
+within any 12-month period, the Index Committee reviews the methodology to ensure the indices continue
+to achieve the stated objectives, and that the data and methodology remain effective. In certain instances,
+S&P Dow Jones Indices may publish a consultation inviting comments from external parties.
+
+For information on Quality Assurance and Internal Reviews of Methodology, please refer to S&P Dow
+Jones Indices’ Equity Indices Policies & Practices Methodology.
+
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                   16
+Index Policy
+Announcements
+
+All index constituents are evaluated daily for data needed to calculate index levels and returns. All events
+affecting the daily index calculation are typically announced in advance via the Index Corporate Events
+report (.SDE), delivered daily to all clients.1 Any unusual treatment of a corporate action or short notice of
+an event may be communicated via email to clients.
+
+For more information, please refer to the Announcements section of S&P Dow Jones Indices’ Equity
+Indices Policies & Practices Methodology.
+
+Pro-forma Files
+
+In addition to the corporate events file (.SDE), S&P Dow Jones Indices provides constituent pro-forma
+files each time the indices rebalance.2 The pro-forma file is typically provided daily in advance of the
+rebalancing date and contains all constituents as well as their corresponding weights and index shares
+effective for the upcoming rebalancing.
+
+Please visit www.spglobal.com/spdji for a complete schedule of rebalancing timelines and pro-forma
+delivery times.
+
+Holiday Schedule
+
+The indices calculate when the U.S. equity markets are open.
+
+A complete holiday schedule for the year is available on the Web site at www.spglobal.com/spdji.
+
+Rebalancing
+
+The Index Committee may change the date of a given rebalancing for reasons including market holidays
+occurring on or around the scheduled rebalancing date. Any such change will be announced with proper
+advance notice where possible.
+
+Unexpected Exchange Closures
+
+For information on Unexpected Exchange Closures, please refer to S&P Dow Jones Indices’ Equity
+Indices Policies & Practices Methodology.
+
+Recalculation Policy
+
+For information on the recalculation policy, please refer to S&P Dow Jones Indices’ Equity Indices Policies
+& Practices Methodology.
+
+For information on Calculations and Pricing Disruptions, Expert Judgment and Data Hierarchy, please
+refer to S&P Dow Jones Indices’ Equity Indices Policies & Practices Methodology.
+
+Contact Information
+
+For questions regarding an index, please contact: index_services@spglobal.com.
+
+1. For Style Indices, please refer to the underlying index’s .SDE file for index corporate event information.
+2. For Style Indices, please refer to the underlying index’s pro-forma file (PRO.SDC) for rebalancing information.
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                            17
+Index Dissemination
+Index levels are available through S&P Dow Jones Indices’ Web site at www.spglobal.com/spdji, major
+quote vendors (see codes below), numerous investment-oriented Web sites, and various print and
+electronic media.
+
+Tickers
+
+The table below lists headline indices covered by this document. All versions of the below indices that
+may exist are also covered by this document. Please refer to the S&P DJI Methodology & Regulatory
+Status Database for a complete list of indices covered by this document.
+
+                          Index                        Return Type          BBG                 RIC
+                                                   Price Return        SGX               .SGX
+ S&P 500 Growth
+                                                   Total Return        SPTRSGX           .SPXGTR
+                                                   Price Return        SVX               .SVX
+ S&P 500 Value
+                                                   Total Return        SPTRSVX           .SPXVTR
+                                                   Price Return        SPXPG             .SPXPG
+ S&P 500 Pure Growth
+                                                   Total Return        SPTRXPG           .SPXPGTR
+                                                   Price Return        SPXPV             .SPXPV
+ S&P 500 Pure Value
+                                                   Total Return        SPTRXPV           .SPXPVTR
+                                                   Price Return        MIDG              .MGD
+ S&P MidCap 400 Growth
+                                                   Total Return        SPTRMG            .SPMGTR
+                                                   Price Return        MIDV              .MUV
+ S&P MidCap 400 Value
+                                                   Total Return        SPTRMV            .SPMVTR
+                                                   Price Return        SPMPG             .SPMPG
+ S&P MidCap 400 Pure Growth
+                                                   Total Return        SPTRMPG           .SPMPGTR
+                                                   Price Return        SPMPV             .SPMPV
+ S&P MidCap 400 Pure Value
+                                                   Total Return        SPTRMPV           .SPMPVTR
+                                                   Price Return        SMLG              .CKG
+ S&P SmallCap 600 Growth
+                                                   Total Return        SPTRSG            .SPSGTR
+                                                   Price Return        SMLV              .CVK
+ S&P SmallCap 600 Value
+                                                   Total Return        SPTRSV            .SPSVTR
+                                                   Price Return        SPSPG             .SPSPG
+ S&P SmallCap 600 Pure Growth
+                                                   Total Return        SPTRSPG           .SPSPGTR
+                                                   Price Return        SPSPV             .SPSPV
+ S&P SmallCap 600 Pure Value
+                                                   Total Return        SPTRSPV           .SPSPVTR
+                                                   Price Return        SPUSCG            .SPCG
+ S&P Composite 1500 Growth
+                                                   Total Return        SPTRCG            .SPCGTR
+                                                   Price Return        SPUSCV            .SPCV
+ S&P Composite 1500 Value
+                                                   Total Return        SPTRCV            .SPCVTR
+                                                   Price Return        SPUSCPG           .SPCPG
+ S&P Composite 1500 Pure Growth
+                                                   Total Return        SPTRCPG           .SPCPGTR
+                                                   Price Return        SPUSCPV           .SPCPV
+ S&P Composite 1500 Pure Value
+                                                   Total Return        SPTRCPV           .SPCPVTR
+                                                   Price Return        SPUSNG            .SPNG
+ S&P 900 Growth
+                                                   Total Return        SPTRNG            .SPNGTR
+                                                   Price Return        SPUSNV            .SPNV
+ S&P 900 Value
+                                                   Total Return        SPTRNV            .SPNVTR
+                                                   Price Return        SPUSNPG           .SPNPG
+ S&P 900 Pure Growth
+                                                   Total Return        SPTRNPG           .SPNPGTR
+                                                   Price Return        SPUSNPV           .SPNPV
+ S&P 900 Pure Value
+                                                   Total Return        SPTRNPV           .SPNPVTR
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                 18
+                        Index                           Return Type           BBG            RIC
+                                                    Price Return         SPUSTG       .SPTG
+ S&P 1000 Growth
+                                                    Total Return         SPTRTG       .SPTGTR
+                                                    Price Return         SPUSTVA      .SPTVA
+ S&P 1000 Value
+                                                    Total Return         SPTRTVA      .SPTVATR
+                                                    Price Return         SPUSTPG      .SPTPG
+ S&P 1000 Pure Growth
+                                                    Total Return         SPTRTPG      .SPTPGTR
+                                                    Price Return         SPUSTPV      .SPTPV
+ S&P 1000 Pure Value
+                                                    Total Return         SPTRTPV      .SPTPVTR
+
+
+Index Alert
+
+Comprehensive index data is available through S&P Dow Jones Indices’ fee-based service, SPICE
+(www.spice-indices.com).
+
+Index Data
+
+Daily constituent and index level data are available via subscription.
+
+For product information, please contact S&P Dow Jones Indices, www.spglobal.com/spdji/en/contact-us.
+
+Web site
+
+For further information, please refer to S&P Dow Jones Indices’ Web site at www.spglobal.com/spdji.
+
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                              19
+Appendix A
+Calculating Distances from Pure Growth Regions
+
+First, the midpoints of the Growth and Value baskets are determined.
+
+AVG = Average of Growth scores of Value basket members
+
+AVV = Average of Value scores of Value basket members
+
+AGG = Average of Growth scores of Growth basket members
+
+AGV = Average of Value scores of Growth basket members
+
+These four variables are calculated once a year at the annual rebalancing.
+
+For each Stock, X, that does not belong to either style basket, DG, X and DV, X are the distances from
+the Growth basket and the Value basket. As detailed in the chapter Index Construction, the stock’s
+Growth and Value scores are SGX and SVX.
+
+Calculation of DG, X
+
+If (SGX ≥ AGG), DG, X =
+
+Else if (SVX ≤ AGV), DG, X =
+
+Else, DG, X =
+
+Calculation of DV, X
+
+If (SVX ≥ AVv), Dvx =
+
+Else if (SGX ≤ AVG), Dv, X =
+
+Else,
+
+DV, X =
+
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                20
+Appendix B
+Calculating Pure Weight Factors (PWFs) for Additions Between Rebalancings
+
+To follow are the equations used to calculate the PWFs for additions between rebalancings. Index users
+need not calculate PWFs. S&P Dow Jones Indices announces the index shares at which stocks will be
+added to an index for all additions that are made between rebalancings. The PWFs are simply used in
+index computation to assign stocks their appropriate weights. The reference date used in the calculation
+of the PWFs is the announcement date of the addition.
+
+Case 1: One stock is being added to a Pure Style index
+
+The following are known variables:
+
+F = Float-adjusted market capitalization of the added stock
+
+  = P * IWF * Index Shares
+
+s = Capped Style Score of Stock X being added
+
+S = Sum of the capped Style Scores of all constituents of the Pure Style index (including the stock that is
+being added)
+
+I = Index Market Value before the addition (but after deletions, if applicable)
+
+
+  =
+
+The following is the unknown variable:
+
+PWF= Weighting factor to ensure the stock goes in at a weight proportional to its Style Score
+
+Because of score weighting, the weight of a stock should be equal to the ratio of its capped Style Score to
+that of the sum of the capped Style Scores of all constituents as determined on the reference date. The
+index weight for the addition will change based on price movements between the reference date and the
+effective date.
+
+(F * PWF) / (I + F * PWF)= s/S
+
+Solving for PWF:
+
+PWF= (I * s) / [F * (S – s)]
+
+Case 2: Two stocks are being added to a Pure Style index
+
+Let the variable definitions be the same as above and be denoted by subscripts 1 and 2 for each of the
+added stocks.
+
+Since stock weights are proportional to their capped Style Scores, it follows that:
+
+(F1 * PWF1) / (F2 * PWF2)= s1/s2
+
+As before, the weight of an added stock is in proportion to its score. Therefore:
+
+(F1 * PWF1)/(I + F1 * PWF1 + F2 * PWF2) = s1/S
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                  21
+Substituting (F2 * PWF2) from the first equation into the second, and solving for PWF1:
+
+PWF1 = (I * s1) / [F1 * {S – (s1 + s2)}]
+
+Similarly,
+
+PWF2 = (I * s2) / [F2 * {S – (s1 + s2)}]
+
+For cases with more than two stocks, the above equation can be extended.
+
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                 22
+Appendix C
+Methodology Changes
+
+Methodology changes since January 1, 2015, are as follows:
+
+                     Effective Date                                          Methodology
+     Change          (After Close)                    Previous                                      Updated
+                                                                                   Constituent Weighting. At each
+                                                                                   rebalancing each index is capped market
+                                                                                   capitalization weighted. For capping
+                                                                                   purposes, the indices rebalance quarterly
+                                                                                   after the close of business on the third
+                                                                                   Friday of March, June, September, and
+                                                                                   December using the following procedures:
+
+                                                                                   1.   With prices reflected on the
+                                                                                        rebalancing reference date, adjusted
+                                                                                        for any applicable corporate actions,
+                                                                                        and membership, shares
+                                                                                        outstanding, IWFs, and Growth/Value
+                                                                                        Factors as of the rebalancing
+                                                                                        effective date, weight each company
+                                                                                        by style adjusted FMC.
+
+                                                                                   2.   If any company weighs more than
+                                                                                        24% cap the company’s weight at
+                                                                                        23%, which allows for a 2% buffer.
+
+                                                                                   3.   Proportionally redistribute any excess
+ Constituent                                                                            weight to all uncapped companies
+ Weightings and                                                                         within the relevant index. The
+                                                                                        process continues iteratively until no
+ Secondary
+                                      At each rebalancing, the indices are              company breaches the 23% weight
+ Reweighting         06/21/2024
+                                      market capitalization weighted.                   cap.
+ Check:
+ Capped Growth
+                                                                                   4.   The aggregate weight of companies
+ and Value Indices
+                                                                                        with weights greater than 4.8%
+                                                                                        cannot exceed 50% of the total index
+                                                                                        weight.
+
+                                                                                   5.   If the rule in step 4 is breached, rank
+                                                                                        all companies in descending order by
+                                                                                        weight and reduce the weight of the
+                                                                                        smallest company whose weight is
+                                                                                        greater than 4.8% that causes the
+                                                                                        step 4 breach to 4.5%. Continue the
+                                                                                        process iteratively until step 4 is
+                                                                                        satisfied.
+
+                                                                                   6.   Assign index share amounts to each
+                                                                                        constituent to arrive at the weights
+                                                                                        calculated above.
+
+                                                                                   7.   If, on the third to last business day of
+                                                                                        March, June, September, or
+                                                                                        December a company has an index
+                                                                                        weight greater than 24%, or the sum
+                                                                                        of the companies with weights
+                                                                                        greater than 4.8% exceeds 50%, a
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                                          23
+                    Effective Date                                         Methodology
+     Change         (After Close)                     Previous                                         Updated
+                                                                                         secondary reweighting is triggered
+                                                                                         with the rebalancing effective date
+                                                                                         after the close of the last business
+                                                                                         day of the month with any applicable
+                                                                                         reweighting changes appearing in
+                                                                                         daily proforma and corporate action
+                                                                                         files starting on the second to last
+                                                                                         business day of the month. The
+                                                                                         secondary reweighting uses the
+                                                                                         closing prices as of the third to last
+                                                                                         business day of March, June,
+                                                                                         September, or December, and
+                                                                                         membership, shares outstanding,
+                                                                                         IWFs and Growth/Value Factor as of
+                                                                                         the rebalancing effective date.
+                                                                                    For more information on the index
+                                                                                    calculation, please refer to the Capped
+                                                                                    Market Capitalization Weighted Indices
+                                                                                    section of S&P Dow Jones Indices’ Index
+                                                                                    Mathematics Methodology.
+                                                                                    S&P Dow Jones Indices will include the
+ Corporate Action
+                                                                                    index shares at which the stock will enter
+ Treatment:                          S&P Dow Jones Indices will calculate the
+                                                                                    a Pure Style index. The index shares are
+ Additions          12/09/18         weight which the stock will enter a Pure
+                                                                                    determined using the weight and the
+ Between                             Style index.
+                                                                                    closing constituent prices on the
+ Rebalancings
+                                                                                    announcement date of the addition.
+                                                                                    In Style indices, spun-off child stocks are
+                                                                                    assigned the same WV and WG as the
+                                     In Style indices, spun-off child stocks were   parent stock. In Pure Style indices, spun-
+                                     assigned WV and WG using the GICS              off child stocks are assigned the same
+                                     industry-level averages for stocks outside     PWF and Style score as the parent stock
+ Spin-Off                            the S&P Composite 1500 index. In Pure          on the effective date of the spin-off. If the
+                    09/30/15
+ Treatment                           Style indices, the weight of a parent stock    parent index migrates the child stock to a
+                                     remained unchanged by having an Index          new index (i.e., S&P 500 to S&P 400), the
+                                     Shares increase to offset the price            PWF for the spin-off is calculated
+                                     adjustment.                                    according to the details in Appendix II. The
+                                                                                    Index Shares of the parent stock will no
+                                                                                    longer be adjusted.
+
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                                           24
+Appendix D
+ESG Disclosures
+
+ EXPLANATION OF HOW ENVIRONMENTAL, SOCIAL & GOVERNANCE (ESG) FACTORS ARE REFLECTED IN THE KEY
+                                 ELEMENTS OF THE BENCHMARK METHODOLOGY1
+ 1.  Name of the benchmark administrator.            S&P Dow Jones Indices LLC.
+ 2.  Underlying asset class of the ESG benchmark.2   N/A
+     Name of the S&P Dow Jones Indices benchmark or
+ 3.                                                  S&P DJI Equity Indices Benchmark Statement
+     family of benchmarks.
+     Do any of the indices maintained by this
+ 4.                                                  No
+     methodology take into account ESG factors?
+ Appendix latest update:                             January 2021
+ Appendix first publication:                         January 2021
+
+
+
+
+1. The information contained in this Appendix is intended to meet the requirements of the European Union Commission Delegated
+   Regulation (EU) 2020/1817 supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Council as regards
+   the minimum content of the explanation of how environmental, social and governance factors are reflected in the benchmark
+   methodology and the retained EU law in the UK [The Benchmarks (amendment and Transitional Provision) (EU Exit) Regulations
+   2019].
+2. The ‘underlying assets’ are defined in European Union Commission Delegated Regulation (EU) 2020/1816 supplementing Regu-
+   lation (EU) 2016/1011 of the European Parliament and of the Council as regards the explanation in the benchmark statement of
+   how environmental, social and governance factors are reflected in each benchmark provided and published.
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                                    25
+Disclaimer
+Performance Disclosure/Back-Tested Data
+
+Where applicable, S&P Dow Jones Indices and its index-related affiliates (“S&P DJI”) defines various
+dates to assist our clients by providing transparency. The First Value Date is the first day for which there is
+a calculated value (either live or back-tested) for a given index. The Base Date is the date at which the
+index is set to a fixed value for calculation purposes. The Launch Date designates the date when the
+values of an index are first considered live: index values provided for any date or time period prior to the
+index’s Launch Date are considered back-tested. S&P DJI defines the Launch Date as the date by which
+the values of an index are known to have been released to the public, for example via the company’s
+public website or its data feed to external parties. For Dow Jones-branded indices introduced prior to May
+31, 2013, the Launch Date (which prior to May 31, 2013, was termed “Date of introduction”) is set at a
+date upon which no further changes were permitted to be made to the index methodology, but that may
+have been prior to the Index’s public release date.
+
+Please refer to the methodology for the Index for more details about the index, including the manner in
+which it is rebalanced, the timing of such rebalancing, criteria for additions and deletions, as well as all
+index calculations.
+
+Information presented prior to an index’s launch date is hypothetical back-tested performance, not actual
+performance, and is based on the index methodology in effect on the launch date. However, when
+creating back-tested history for periods of market anomalies or other periods that do not reflect the
+general current market environment, index methodology rules may be relaxed to capture a large enough
+universe of securities to simulate the target market the index is designed to measure or strategy the index
+is designed to capture. For example, market capitalization and liquidity thresholds may be reduced. In
+addition, forks have not been factored into the back-test data with respect to the S&P Cryptocurrency
+Indices. For the S&P Cryptocurrency Top 5 & 10 Equal Weight Indices, the custody element of the
+methodology was not considered; the back-test history is based on the index constituents that meet the
+custody element as of the Launch Date. Also, the treatment of corporate actions in back-tested
+performance may differ from treatment for live indices due to limitations in replicating index management
+decisions. Back-tested performance reflects application of an index methodology and selection of index
+constituents with the benefit of hindsight and knowledge of factors that may have positively affected its
+performance, cannot account for all financial risk that may affect results and may be considered to reflect
+survivor/look ahead bias. Actual returns may differ significantly from, and be lower than, back-tested
+returns. Past performance is not an indication or guarantee of future results.
+
+Typically, when S&P DJI creates back-tested index data, S&P DJI uses actual historical constituent-level
+data (e.g., historical price, market capitalization, and corporate action data) in its calculations. As ESG
+investing is still in early stages of development, certain datapoints used to calculate certain ESG indices
+may not be available for the entire desired period of back-tested history. The same data availability issue
+could be true for other indices as well. In cases when actual data is not available for all relevant historical
+periods, S&P DJI may employ a process of using “Backward Data Assumption” (or pulling back) of ESG
+data for the calculation of back-tested historical performance. “Backward Data Assumption” is a process
+that applies the earliest actual live data point available for an index constituent company to all prior
+historical instances in the index performance. For example, Backward Data Assumption inherently
+assumes that companies currently not involved in a specific business activity (also known as “product
+involvement”) were never involved historically and similarly also assumes that companies currently
+involved in a specific business activity were involved historically too. The Backward Data Assumption
+allows the hypothetical back-test to be extended over more historical years than would be feasible using
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                      26
+only actual data. For more information on “Backward Data Assumption” please refer to the FAQ. The
+methodology and factsheets of any index that employs backward assumption in the back-tested history
+will explicitly state so. The methodology will include an Appendix with a table setting forth the specific data
+points and relevant time period for which backward projected data was used. Index returns shown do not
+represent the results of actual trading of investable assets/securities. S&P DJI maintains the index and
+calculates the index levels and performance shown or discussed but does not manage any assets.
+
+Index returns do not reflect payment of any sales charges or fees an investor may pay to purchase the
+securities underlying the Index or investment funds that are intended to track the performance of the
+Index. The imposition of these fees and charges would cause actual and back-tested performance of the
+securities/fund to be lower than the Index performance shown. As a simple example, if an index returned
+10% on a US $100,000 investment for a 12-month period (or US $10,000) and an actual asset-based fee
+of 1.5% was imposed at the end of the period on the investment plus accrued interest (or US $1,650), the
+net return would be 8.35% (or US $8,350) for the year. Over a three-year period, an annual 1.5% fee
+taken at year end with an assumed 10% return per year would result in a cumulative gross return of
+33.10%, a total fee of US $5,375, and a cumulative net return of 27.2% (or US $27,200).
+
+Intellectual Property Notices/Disclaimer
+
+© 2026 S&P Dow Jones Indices. All rights reserved. S&P, S&P 500, SPX, SPY, The 500, US500 , US 30,
+S&P 100, S&P COMPOSITE 1500, S&P 400, S&P MIDCAP 400, S&P 600, S&P SMALLCAP 600, S&P
+GIVI, GLOBAL TITANS, DIVIDEND ARISTOCRATS, Select Sector, S&P MAESTRO, S&P PRISM, S&P
+STRIDE, GICS, SPIVA, SPDR, INDEXOLOGY, iTraxx, iBoxx, ABX, ADBI, CDX, CMBX, MBX, MCDX,
+PRIMEX, HHPI, and SOVX are registered trademarks of S&P Global, Inc. (“S&P Global”) or its affiliates.
+DOW JONES, DJIA, THE DOW and DOW JONES INDUSTRIAL AVERAGE are trademarks of Dow Jones
+Trademark Holdings LLC (“Dow Jones”). These trademarks together with others have been licensed to
+S&P Dow Jones Indices LLC. Redistribution or reproduction in whole or in part are prohibited without
+written permission of S&P Dow Jones Indices LLC. This document does not constitute an offer of services
+in jurisdictions where S&P DJI does not have the necessary licenses. Except for certain custom index
+calculation services, all information provided by S&P DJI is impersonal and not tailored to the needs of
+any person, entity, or group of persons. S&P DJI receives compensation in connection with licensing its
+indices to third parties and providing custom calculation services. Past performance of an index is not an
+indication or guarantee of future results.
+
+It is not possible to invest directly in an index. Exposure to an asset class represented by an index may be
+available through investable instruments based on that index. S&P DJI does not sponsor, endorse, sell,
+promote or manage any investment fund or other investment vehicle that is offered by third parties and
+that seeks to provide an investment return based on the performance of any index. S&P DJI makes no
+assurance that investment products based on the index will accurately track index performance or provide
+positive investment returns. S&P DJI is not an investment advisor, commodity trading advisor, fiduciary,
+“promoter” (as defined in the Investment Company Act of 1940, as amended) or “expert” as enumerated
+within 15 U.S.C. § 77k(a), and S&P DJI makes no representation regarding the advisability of investing in
+any such investment fund or other investment vehicle. A decision to invest in any such investment fund or
+other investment vehicle should not be made in reliance on any of the statements set forth in this
+document. S&P DJI is not a tax advisor. Inclusion of a security, commodity, crypto currency, or other asset
+within an index is not a recommendation by S&P DJI to buy, sell, or hold such security, commodity, crypto
+currency, or other asset, nor is it considered to be investment or trading advice.
+
+These materials have been prepared solely for informational purposes based upon information generally
+available to the public and from sources believed to be reliable. No content contained in these materials
+(including index data, ratings, credit-related analyses and data, research, valuations, model, software or
+other application or output therefrom) or any part thereof (“Content”) may be modified, reverse
+engineered, reproduced, or distributed in any form or by any means, or stored in a database or retrieval
+system, without the prior written permission of S&P DJI. The Content shall not be used for any unlawful or
+unauthorized purposes. S&P DJI and its third-party data providers and licensors (collectively “S&P Dow
+Jones Indices Parties”) do not guarantee the accuracy, completeness, timeliness, or availability of the
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                    27
+Content. S&P Dow Jones Indices Parties are not responsible for any errors or omissions, regardless of
+the cause, for the results obtained from the use of the Content. THE CONTENT IS PROVIDED ON AN
+“AS IS” “WHERE IS” BASIS. S&P DOW JONES INDICES PARTIES DISCLAIMS ANY AND ALL
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS,
+SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL BE
+UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY SOFTWARE OR
+HARDWARE CONFIGURATION. In no event shall S&P Dow Jones Indices Parties be liable to any party
+for any direct, indirect, incidental, exemplary, compensatory, punitive, special, or consequential damages,
+costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and
+opportunity costs) in connection with any use of the Content even if advised of the possibility of such
+damages.
+
+Credit-related information and other analyses, including ratings, research and valuations are generally
+provided by licensors and/or affiliates of S&P Dow Jones Indices, including but not limited to S&P Global’s
+other divisions such as S&P Global Market Intelligence. Any credit-related information and other related
+analyses and statements in the Content are statements of opinion as of the date they are expressed and
+not statements of fact. Any opinion, analyses and rating acknowledgement decisions are not
+recommendations to purchase, hold, or sell any securities or to make any investment decisions, and do
+not address the suitability of any security. S&P Dow Jones Indices does not assume any obligation to
+update the Content following publication in any form or format. The Content should not be relied on and is
+not a substitute for the skill, judgment and experience of the user, its management, employees, advisors
+and/or clients when making investment and other business decisions. S&P DJI does not act as a fiduciary
+or an investment advisor. While S&P DJI has obtained information from sources it believes to be reliable,
+S&P DJI does not perform an audit or undertake independent verification of any information it receives.
+S&P DJI reserves the right to vary or discontinue any index at any time for regulatory or other reasons.
+Various factors, including external factors beyond S&P DJI’s control might necessitate material changes
+to indices.
+
+To the extent that regulatory authorities allow a rating agency to acknowledge in one jurisdiction a rating
+issued in another jurisdiction for certain regulatory purposes, S&P Global Ratings reserves the right to
+assign, withdraw or suspend such acknowledgement at any time and in its sole discretion. S&P Dow
+Jones Indices, including S&P Global Ratings, disclaim any duty whatsoever arising out of the assignment,
+withdrawal, or suspension of an acknowledgement as well as any liability for any damage alleged to have
+been suffered on account thereof. Affiliates of S&P Dow Jones Indices LLC, including S&P Global
+Ratings, may receive compensation for its ratings and certain credit-related analyses, normally from
+issuers or underwriters of securities or from obligors. Such affiliates of S&P Dow Jones Indices LLC,
+including S&P Global Ratings, reserve the right to disseminate its opinions and analyses. Public ratings
+and analyses from S&P Global Ratings are made available on its Web sites, www.standardandpoors.com
+(free of charge), and www.ratingsdirect.com and www.globalcreditportal.com (subscription), and may be
+distributed through other means, including via S&P Global Ratings publications and third-party
+redistributors. Additional information about our ratings fees is available at
+www.standardandpoors.com/usratingsfees.
+
+S&P Global keeps certain activities of its various divisions and business units separate from each other to
+preserve the independence and objectivity of their respective activities. As a result, certain divisions and
+business units of S&P Global may have information that is not available to other business units. S&P
+Global has established policies and procedures to maintain the confidentiality of certain nonpublic
+information received in connection with each analytical process.
+
+In addition, S&P Dow Jones Indices provides a wide range of services to, or relating to, many
+organizations, including issuers of securities, investment advisers, broker-dealers, investment banks,
+other financial institutions, and financial intermediaries, and accordingly may receive fees or other
+economic benefits from those organizations, including organizations whose securities or services they
+may recommend, rate, include in model portfolios, evaluate, or otherwise address.
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                 28
+Some indices use the Global Industry Classification Standard (GICS®), which was developed by, and is
+the exclusive property and a trademark of, S&P Global and MSCI. Neither MSCI, S&P DJI nor any other
+party involved in making or compiling any GICS classifications makes any express or implied warranties
+or representations with respect to such standard or classification (or the results to be obtained by the use
+thereof), and all such parties hereby expressly disclaim all warranties of originality, accuracy,
+completeness, merchantability, or fitness for a particular purpose with respect to any of such standard or
+classification. Without limiting any of the foregoing, in no event shall MSCI, S&P DJI, any of their affiliates
+or any third party involved in making or compiling any GICS classifications have any liability for any direct,
+indirect, special, punitive, consequential or any other damages (including lost profits) even if notified of
+the possibility of such damages.
+
+S&P Dow Jones Indices products are governed by the terms and conditions of the agreements under
+which they may be provided. A license is required from S&P Dow Jones Indices to display, create
+derivative works of and/or distribute any product or service that uses, is based upon and/or refers to any
+S&P Dow Jones Indices and/or index data.
+
+The Content may have been created with the assistance of an artificial intelligence (AI) tool. While the AI
+tool may provide suggestions and insights, the final Content was composed, reviewed, edited, and
+approved by a human(s) at S&P Dow Jones Indices. As such, S&P Dow Jones Indices claims full
+copyright ownership of this AI-assisted Content, in accordance with applicable laws and regulations.
+
+ESG Indices Disclaimer
+
+S&P DJI provides indices that seek to select, exclude, and/or weight index constituents based on, but not
+limited to, certain environmental, social or governance (ESG) indicators, or a combination of those
+indicators, including the following: environmental indicators (including the efficient use of natural
+resources, the production of waste, greenhouse gas emissions, or impact on biodiversity); social
+indicators (such as, inequality and investment in human capital); governance indictors (such as sound
+management structures, employee relations, remuneration of staff, tax compliance, respect for human
+rights, anti-corruption and anti-bribery matters), specific sustainability or values-related company
+involvement indicators (for example, production/distribution of controversial weapons, tobacco products,
+or thermal coal), or controversies monitoring (including research of media outlets to identify companies
+involved in ESG-related incidents).
+
+S&P DJI ESG indices use ESG metrics and scores in the selection and/or weighting of index constituents.
+ESG scores or ratings seek to measure or evaluate a company’s, or an asset’s, performance with respect
+to environmental, social and corporate governance issues.
+
+The ESG scores, ratings, and other data used in S&P DJI ESG indices is supplied directly or indirectly by
+third parties (note these parties can be independent affiliates of S&P Global or unaffiliated entities) so an
+S&P DJI ESG index’s ability to reflect ESG factors depends on these third parties’ data accuracy and
+availability.
+
+ESG scores, ratings, and other data may be reported (meaning that the data is provided as disclosed by
+companies, or an asset, or as made publicly available), modelled (meaning that the data is derived using
+a proprietary modelling process with only proxies used in the creation of the data), or reported and
+modelled (meaning that the data is either a mix of reported and modelled data or is derived from the
+vendor using reported data /information in a proprietary scoring or determination process).
+
+ESG scores, ratings, and other data, whether from an external and/or internal source, is based on a
+qualitative and judgmental assessment, especially in the absence of well-defined market standards, and
+due to the existence of multiple approaches and methodologies to assess ESG factors and
+considerations. An element of subjectivity and discretion is therefore inherent in any ESG score, rating, or
+other data and different ESG scoring, rating, and/or data sources may use different ESG assessment or
+estimation methodologies. Different persons (including ESG data ratings, or scoring providers, index
+
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                     29
+administrators or users) may arrive at different conclusions regarding the sustainability or impact of a
+particular company, asset, or index.
+
+Where an index uses ESG scores, ratings or other data supplied directly or indirectly by third parties, S&P
+DJI does not accept responsibility for the accuracy of completeness of such ESG scores, ratings, or data.
+No single clear, definitive test or framework (legal, regulatory, or otherwise) exists to determine ‘ESG’,
+‘sustainable’, ‘good governance’, ‘no adverse environmental, social and/or other impacts’, or other
+equivalently labelled objectives. In the absence of well-defined market standards and due to the existence
+of multitude approaches, the exercise of judgment is necessary. Accordingly, different persons may
+classify the same investment, product and/or strategy differently regarding ‘ESG’, ‘sustainable’, ‘good
+governance’, ‘no adverse environmental, social and/or other impacts’, or other equivalently labelled
+objectives. Furthermore, the legal and/or market position on what constitutes an ‘ESG’, ‘sustainable’,
+‘good governance’, ‘no adverse environmental, social and/or other impacts’, or other equivalently labelled
+objectives may change over time, especially as further regulatory or industry rules and guidance are
+issued and the ESG sustainable finance framework becomes more sophisticated.
+
+Prospective users of an S&P DJI ESG Index are encouraged to read the relevant index methodology and
+related disclosures carefully to determine whether the index is suitable for their potential use case or
+investment objective.
+
+
+
+
+S&P Dow Jones Indices: S&P U.S. Style Indices Methodology                                                  30
+

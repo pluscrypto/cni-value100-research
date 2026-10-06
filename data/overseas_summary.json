@@ -1,0 +1,51 @@
+{
+  "msci_annual": [
+    {
+      "name": "MSCI World",
+      "period": "2012-12-31→2025-12-31",
+      "usd_cagr": 0.11579653744947338,
+      "cny_cagr_before_channel_costs": 0.12575686310586276
+    },
+    {
+      "name": "MSCI World Quality",
+      "period": "2012-12-31→2025-12-31",
+      "usd_cagr": 0.1365925503056027,
+      "cny_cagr_before_channel_costs": 0.1467385146993867
+    },
+    {
+      "name": "MSCI World Value",
+      "period": "2012-12-31→2025-12-31",
+      "usd_cagr": 0.0887505731282976,
+      "cny_cagr_before_channel_costs": 0.09846946891527208
+    }
+  ],
+  "etf_10y": [
+    {
+      "name": "IVE",
+      "start": "2016-06-30",
+      "end": "2026-06-30",
+      "USD_CAGR": 0.1173,
+      "CNY_CAGR_before_channel_costs": 0.11961844304471492,
+      "fx_start": 6.6459,
+      "fx_end": 6.7851
+    },
+    {
+      "name": "IWD",
+      "start": "2016-06-30",
+      "end": "2026-06-30",
+      "USD_CAGR": 0.1133,
+      "CNY_CAGR_before_channel_costs": 0.11561014288166227,
+      "fx_start": 6.6459,
+      "fx_end": 6.7851
+    },
+    {
+      "name": "IVV",
+      "start": "2016-06-30",
+      "end": "2026-06-30",
+      "USD_CAGR": 0.1547,
+      "CNY_CAGR_before_channel_costs": 0.1570960495692586,
+      "fx_start": 6.6459,
+      "fx_end": 6.7851
+    }
+  ]
+}

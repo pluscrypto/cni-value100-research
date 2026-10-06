@@ -1,0 +1,191 @@
+                                                                                                                                                                                    Index Factsheet
+
+
+
+
+MSCI World Value Index (USD)
+
+The MSCI World Value Index captures large and mid cap securities exhibiting overall value style characteristics across 23 Developed
+Markets countries*. The value investment style characteristics for index construction are deﬁned using three variables: book value to
+price, 12-month forward earnings to price and dividend yield.
+For a complete description of the index methodology, please see Index methodology - MSCI.
+
+CUMULATIVE INDEX PERFORMANCE — NET RETURNS (USD)                                                                                                       ANNUAL PERFORMANCE (%)
+(SEP 2011 – SEP 2026)
+                                                                                                                                                        Year        MSCI World Value      MSCI World
+
+ 600        MSCI World Value                                                                                                                            2025               20.79               21.09
+                                                                                                                                              578.64
+            MSCI World                                                                                                                                  2024               11.47               18.67
+                                                                                                                                                        2023               11.51               23.79
+                                                                                                                                                        2022                -6.52             -18.14
+                                                                                                                                              430.62    2021               21.94               21.82
+ 400                                                                                                                                                    2020                -1.16              15.90
+                                                                                                                                                        2019               21.75               27.67
+                                                                                                                                                        2018              -10.78                -8.71
+                                                                                                                                                        2017               17.10               22.40
+                                                                                                                                                        2016               12.33                 7.51
+ 200
+                                                                                                                                                        2015                -4.82               -0.87
+                                                                                                                                                        2014                 3.69                4.94
+                                                                                                                                                        2013               26.62               26.68
+  50                                                                                                                                                    2012               15.51               15.83
+   Sep 11    Dec 12   Mar 14   Jun 15     Sep 16   Dec 17       Mar 19      Jun 20   Sep 21     Dec 22           Mar 24      Jun 25     Sep 26
+
+
+
+INDEX PERFORMANCE — NET RETURNS (%) (SEP 30, 2026)                                                                                                     FUNDAMENTALS (SEP 30, 2026)
+                                                                                                                 ANNUALIZED
+
+                                            1 Mo       3 Mo          1 Yr        YTD           3 Yr          5 Yr         10 Yr DecSince                Div Yld (%)      P/E        P/E Fwd      P/BV
+                                                                                                                                   31, 1974
+
+  MSCI World Value                         -2.26       3.84         18.57       14.74        19.08           11.54        10.04         10.67              2.34         18.36       14.64        2.75
+
+  MSCI World                               -1.19       1.88         15.24       11.75        21.40           11.89        12.81         10.53              1.52         22.69       17.92        4.10
+
+
+INDEX RISK AND RETURN CHARACTERISTICS (SEP 30, 2026)
+                                                             ANNUALIZED STD DEV (%) 2                                SHARPE RATIO 2 , 3                                  MAXIMUM DRAWDOWN
+                                                                                                                                                  Since
+                                          Turnover          3 Yr         5 Yr        10 Yr            3 Yr            5 Yr            10 Yr      Dec 31,          (%)           Period YYYY-MM-DD
+                                            (%) 1                                                                                                 1974
+
+  MSCI World Value                         28.29           11.26       14.01         14.78            1.22            0.59            0.56         na          61.22       2007-07-13—2009-03-09
+
+  MSCI World                                3.18           11.85       15.06         14.88            1.33            0.58            0.72         na          57.82       2007-10-31—2009-03-09
+                                  1                    2                                                     3
+                                      Last 12 months       Based on monthly net returns data                     Based on NY FED Overnight SOFR from Sep 1 2021 & on ICE LIBOR 1M prior that date
+
+
+
+
+* 23 Developed Market countries: Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Hong Kong, Ireland, Israel, Italy, Japan, Netherlands, New Zealand,
+Norway, Portugal, Singapore, Spain, Sweden, Switzerland, the UK and the USA.
+
+The MSCI World Value Index was launched on Dec 08, 1997. Data prior to the launch date is back-tested test (i.e. calculations of how the index might have performed over that
+time period had the index existed). There are frequently material differences between back-tested performance and actual results. Past performance -- whether actual or back-
+tested -- is no indication or guarantee of future performance.
+
+
+
+                                                                                                                                                                  MSCI World Value Index (USD) | msci.com
+SEP 30, 2026                                                                                                                                                             Index Factsheet
+
+INDEX CHARACTERISTICS                                                                  TOP 10 CONSTITUENTS
+                                     MSCI World Value                                                                                   Float Adj Mkt        Index                      Sector
+ Number of                                                  816                                                                                   Cap       Wt. (%)
+                                                                                                                                       ( USD Billions)
+ Constituents                                                                               MICROSOFT CORP                                 3,619.54           8.01              Info Tech
+                                  Mkt Cap ( USD Millions)
+                                                                                            META PLATFORMS A                               1,592.53           3.53           Comm Srvcs
+ Index                                      45,167,089.56
+                                                                                            MICRON TECHNOLOGY                              1,202.93           2.66              Info Tech
+ Largest                                     3,619,541.95                                   JPMORGAN CHASE & CO                              879.41           1.95             Financials
+ Smallest                                        1,189.00                                   BERKSHIRE HATHAWAY B                             702.28           1.55             Financials
+ Average                                        55,351.83                                   EXXONMOBIL HOLDINGS                              674.51           1.49                 Energy
+ Median                                         22,667.68                                   JOHNSON & JOHNSON                                637.29           1.41            Health Care
+                                                                                            INTEL CORP                                       528.74           1.17              Info Tech
+                                                                                            ABBVIE                                           462.18           1.02            Health Care
+                                                                                            CISCO SYSTEMS                                    424.22           0.94              Info Tech
+                                                                                            Total                                         10,723.62          23.74
+
+
+
+FACTORS - KEY EXPOSURES THAT DRIVE RISK AND RETURN
+MSCI FACTOR BOX                                                                                                                  MSCI FaCS
+                    UNDERWEIGHT             NEUTRAL               OVERWEIGHT
+                                                                                                                                           VALUE
+                                                                                                                                           Relatively Inexpensive Stocks
+
+                                                                                                                                           LOW SIZE
+                                                                                                                                           Smaller Companies
+
+                                                                                                                                           MOMENTUM
+                                                                                                                                           Rising Stocks
+
+                                                                                                                                           QUALITY
+                                                                                                                                           Sound Balance Sheet Stocks
+
+                                                                                                                                           YIELD
+                                                                                                                                           Cash Flow Paid Out
+
+                                                                                                                                           LOW VOLATILITY
+                                                                                                                                           Lower Risk Stocks
+
+
+                                                                                                                                 MSCI FaCS provides absolute factor exposures
+                                                                                                                                 relative to a
+          <-1.5                                 0                              +1.5<                                             broad global index - MSCI ACWI IMI.
+                                  MSCI World Value        MSCI World
+                                                                                                                                 Neutral factor exposure (FaCS = 0) represents
+                                                                                                                                 MSCI ACWI IMI.
+
+
+
+SECTOR WEIGHTS                                                                                         COUNTRY WEIGHTS
+                                                                                       7.11%                                                                                6.01%
+           7.36%
+                                                                                       6.45%                                                                                3.93%
+           9.26%
+                                                                                       4.23%                                                                                3.51%
+
+                                                                                       3.9%                                                                                 2.31%
+         11.46%
+                                                                                       3.9%                                                                                 11.88%
+
+                                                                                       2.43%
+
+                                                                                       25.12%                   72.37%
+          18.78%
+
+
+
+
+   Financials 25.12%        Information Technology 18.78%              Health Care 11.46%                 United States 72.37%     Japan 6.01%    United Kingdom 3.93%   Canada 3.51%
+
+   Industrials 9.26%        Energy 7.36%             Consumer Staples 7.11%                               France 2.31%     Other 11.88%
+
+   Communication Services 6.45%             Consumer Discretionary 4.23%          Materials 3.9%
+
+   Utilities 3.9%       Real Estate 2.43%
+
+
+
+
+                                                                                                                                                   MSCI World Value Index (USD) | msci.com
+SEP 30, 2026                                                                                                                                                                            Index Factsheet
+
+
+
+MSCI FACTOR BOX AND FaCS FRAMEWORK (Please refer to complete description of the MSCI FaCS methodology here)
+MSCI FaCS is a standard method for evaluating and reporting the Factor characteristics of equity portfolios. MSCI FaCS consists
+of Factor Groups (e.g. Value, Size, Momentum, Quality, Yield, and Volatility) that have been extensively documented in academic
+literature and validated by MSCI Research as key drivers of risk and return in equity portfolios. These Factor Groups are constructed
+by aggregating 16 factors (e.g. Book-to-Price, Earnings/Dividend Yields, LT Reversal, Leverage, Earnings Variability/Quality, Beta)
+from the latest Barra global equity factor risk model, GEMLT, designed to make fund comparisons transparent and intuitive for use.
+The MSCI Factor Box, which is powered by MSCI FaCS, provides a visualization designed to easily compare absolute exposures
+of funds/indexes and their benchmarks along 6 Factor Groups that have historically demonstrated excess market returns over
+the long run.
+
+
+
+
+ABOUT MSCI
+MSCI (NYSE: MSCI Inc.) strengthens global markets by connecting participants across the ﬁnancial ecosystem with a common language. Our research-based data, analytics and indexes, supported by
+advanced technology, set standards for global investors and help our clients understand risks and opportunities so they can make better decisions and unlock innovation. We serve asset managers and
+owners, private-market sponsors and investors, hedge funds, wealth managers, banks, insurers and corporates. To learn more, please visit www.msci.com.
+
+The data, data feeds, databases, reports, text, graphs, charts, images, videos, recordings, models, metrics, analytics, indexes, assessments, ratings, scores, software, websites, products, services and other
+information delivered in connection with this notice (the “Information”): (a) are proprietary information of MSCI and its suppliers, (b) may not be used for commercial purposes without prior written permission
+from MSCI Inc. or its afﬁliates (“MSCI”), and (c) are not investment advice and must not be relied on as such. The Information and its use are further subject to the disclaimer at https://www.msci.com/
+legal/notice-and-disclaimer. As detailed therein, MSCI AND ITS SUPPLIERS MAKE NO EXPRESS OR IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR OTHERWISE
+WITH RESPECT TO THE INFORMATION HEREIN AND DISCLAIM ALL LIABILITY TO THE MAXIMUM EXTENT PERMITTED BY LAW. For information about how MSCI collects and uses personal data, refer
+to https://www.msci.com/privacy-pledge.
+
+© 2026 MSCI Inc. All rights reserved.
+
+
+
+                                                                                                                                                              MSCI World Value Index (USD) | msci.com
+

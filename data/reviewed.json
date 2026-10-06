@@ -1,0 +1,1647 @@
+{
+  "metrics": [
+    {
+      "period": "full_backtest_mixed",
+      "name": "价值100",
+      "start": "2012-12-31",
+      "end": "2026-09-30",
+      "n": 3339,
+      "years": 13.747031082089297,
+      "total": 7.1263092,
+      "cagr": 0.16463101838257543,
+      "vol": 0.21869627788195894,
+      "mdd": -0.3993811506195596,
+      "worst_episode": {
+        "peak": "2015-06-12",
+        "trough": "2016-01-28",
+        "recovery": "2017-06-09",
+        "depth": -0.3993811506195596,
+        "underwater_days": 728,
+        "recovery_after_trough_days": 498,
+        "censored": false
+      },
+      "longest_underwater": {
+        "peak": "2018-02-02",
+        "trough": "2019-01-03",
+        "recovery": "2020-07-09",
+        "depth": -0.2748622437875875,
+        "underwater_days": 888,
+        "recovery_after_trough_days": 553,
+        "censored": false
+      }
+    },
+    {
+      "period": "full_backtest_mixed",
+      "name": "自由现金流",
+      "start": "2012-12-31",
+      "end": "2026-09-30",
+      "n": 3339,
+      "years": 13.747031082089297,
+      "total": 6.9491391,
+      "cagr": 0.1627650417135036,
+      "vol": 0.22755304973251023,
+      "mdd": -0.501948024425376,
+      "worst_episode": {
+        "peak": "2015-06-12",
+        "trough": "2016-01-28",
+        "recovery": "2020-11-20",
+        "depth": -0.501948024425376,
+        "underwater_days": 1988,
+        "recovery_after_trough_days": 1758,
+        "censored": false
+      },
+      "longest_underwater": {
+        "peak": "2015-06-12",
+        "trough": "2016-01-28",
+        "recovery": "2020-11-20",
+        "depth": -0.501948024425376,
+        "underwater_days": 1988,
+        "recovery_after_trough_days": 1758,
+        "censored": false
+      }
+    },
+    {
+      "period": "full_backtest_mixed",
+      "name": "沪深300",
+      "start": "2012-12-31",
+      "end": "2026-09-30",
+      "n": 3339,
+      "years": 13.747031082089297,
+      "total": 1.374269790446629,
+      "cagr": 0.06492047189773831,
+      "vol": 0.213895564231241,
+      "mdd": -0.46058855289830947,
+      "worst_episode": {
+        "peak": "2015-06-08",
+        "trough": "2016-01-28",
+        "recovery": "2020-07-09",
+        "depth": -0.46058855289830947,
+        "underwater_days": 1858,
+        "recovery_after_trough_days": 1624,
+        "censored": false
+      },
+      "longest_underwater": {
+        "peak": "2021-02-10",
+        "trough": "2024-02-02",
+        "recovery": null,
+        "depth": -0.41561007195195276,
+        "underwater_days": 2058,
+        "recovery_after_trough_days": null,
+        "censored": true
+      }
+    },
+    {
+      "period": "full_backtest_mixed",
+      "name": "中证全指",
+      "start": "2012-12-31",
+      "end": "2026-09-30",
+      "n": 3339,
+      "years": 13.747031082089297,
+      "total": 1.5717803307966043,
+      "cagr": 0.07112864573876054,
+      "vol": 0.22470775453115138,
+      "mdd": -0.5578010737246758,
+      "worst_episode": {
+        "peak": "2015-06-12",
+        "trough": "2018-10-18",
+        "recovery": null,
+        "depth": -0.5578010737246758,
+        "underwater_days": 4128,
+        "recovery_after_trough_days": null,
+        "censored": true
+      },
+      "longest_underwater": {
+        "peak": "2015-06-12",
+        "trough": "2018-10-18",
+        "recovery": null,
+        "depth": -0.5578010737246758,
+        "underwater_days": 4128,
+        "recovery_after_trough_days": null,
+        "censored": true
+      }
+    },
+    {
+      "period": "full_backtest_mixed",
+      "name": "300价值",
+      "start": "2012-12-31",
+      "end": "2026-09-30",
+      "n": 3339,
+      "years": 13.747031082089297,
+      "total": 2.188138719380628,
+      "cagr": 0.08799975338172916,
+      "vol": 0.20569318874296405,
+      "mdd": -0.396936314413903,
+      "worst_episode": {
+        "peak": "2015-06-08",
+        "trough": "2015-08-25",
+        "recovery": "2017-11-10",
+        "depth": -0.396936314413903,
+        "underwater_days": 886,
+        "recovery_after_trough_days": 808,
+        "censored": false
+      },
+      "longest_underwater": {
+        "peak": "2021-02-25",
+        "trough": "2022-10-31",
+        "recovery": "2024-09-30",
+        "depth": -0.2887756570803466,
+        "underwater_days": 1313,
+        "recovery_after_trough_days": 700,
+        "censored": false
+      }
+    },
+    {
+      "period": "full_backtest_mixed",
+      "name": "中证红利",
+      "start": "2012-12-31",
+      "end": "2026-09-30",
+      "n": 3339,
+      "years": 13.747031082089297,
+      "total": 2.88465982508731,
+      "cagr": 0.10375146434746663,
+      "vol": 0.20664596104133473,
+      "mdd": -0.45659296257350934,
+      "worst_episode": {
+        "peak": "2015-06-12",
+        "trough": "2016-01-28",
+        "recovery": "2021-05-10",
+        "depth": -0.45659296257350934,
+        "underwater_days": 2159,
+        "recovery_after_trough_days": 1929,
+        "censored": false
+      },
+      "longest_underwater": {
+        "peak": "2015-06-12",
+        "trough": "2016-01-28",
+        "recovery": "2021-05-10",
+        "depth": -0.45659296257350934,
+        "underwater_days": 2159,
+        "recovery_after_trough_days": 1929,
+        "censored": false
+      }
+    },
+    {
+      "period": "full_backtest_mixed",
+      "name": "红利低波",
+      "start": "2012-12-31",
+      "end": "2026-09-30",
+      "n": 3339,
+      "years": 13.747031082089297,
+      "total": 3.852881027049005,
+      "cagr": 0.12176441242116787,
+      "vol": 0.19802989971567186,
+      "mdd": -0.4249410231544901,
+      "worst_episode": {
+        "peak": "2015-06-12",
+        "trough": "2016-01-28",
+        "recovery": "2020-11-23",
+        "depth": -0.4249410231544901,
+        "underwater_days": 1991,
+        "recovery_after_trough_days": 1761,
+        "censored": false
+      },
+      "longest_underwater": {
+        "peak": "2015-06-12",
+        "trough": "2016-01-28",
+        "recovery": "2020-11-23",
+        "depth": -0.4249410231544901,
+        "underwater_days": 1991,
+        "recovery_after_trough_days": 1761,
+        "censored": false
+      }
+    },
+    {
+      "period": "full_backtest_mixed",
+      "name": "红利质量",
+      "start": "2012-12-31",
+      "end": "2026-09-30",
+      "n": 3339,
+      "years": 13.747031082089297,
+      "total": 5.70163551040005,
+      "cagr": 0.14841499170347783,
+      "vol": 0.23047614311115505,
+      "mdd": -0.39022176978228373,
+      "worst_episode": {
+        "peak": "2015-06-12",
+        "trough": "2015-09-15",
+        "recovery": "2017-06-26",
+        "depth": -0.39022176978228373,
+        "underwater_days": 745,
+        "recovery_after_trough_days": 650,
+        "censored": false
+      },
+      "longest_underwater": {
+        "peak": "2021-06-07",
+        "trough": "2024-09-13",
+        "recovery": "2024-10-08",
+        "depth": -0.2919495690025141,
+        "underwater_days": 1219,
+        "recovery_after_trough_days": 25,
+        "censored": false
+      }
+    },
+    {
+      "period": "post_20241029",
+      "name": "价值100",
+      "start": "2024-10-29",
+      "end": "2026-09-30",
+      "n": 470,
+      "years": 1.9192728118989437,
+      "total": 0.23930266363529462,
+      "cagr": 0.11827412046656272,
+      "vol": 0.14345049802510645,
+      "mdd": -0.15804744308106178,
+      "worst_episode": {
+        "peak": "2026-03-12",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.15804744308106178,
+        "underwater_days": 202,
+        "recovery_after_trough_days": null,
+        "censored": true
+      },
+      "longest_underwater": {
+        "peak": "2026-03-12",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.15804744308106178,
+        "underwater_days": 202,
+        "recovery_after_trough_days": null,
+        "censored": true
+      }
+    },
+    {
+      "period": "post_20241029",
+      "name": "自由现金流",
+      "start": "2024-10-29",
+      "end": "2026-09-30",
+      "n": 470,
+      "years": 1.9192728118989437,
+      "total": 0.14883834156084608,
+      "cagr": 0.07497099495396542,
+      "vol": 0.16637928685972364,
+      "mdd": -0.24441564113091696,
+      "worst_episode": {
+        "peak": "2026-03-12",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.24441564113091696,
+        "underwater_days": 202,
+        "recovery_after_trough_days": null,
+        "censored": true
+      },
+      "longest_underwater": {
+        "peak": "2024-12-12",
+        "trough": "2025-04-07",
+        "recovery": "2025-07-21",
+        "depth": -0.138179697180691,
+        "underwater_days": 221,
+        "recovery_after_trough_days": 105,
+        "censored": false
+      }
+    },
+    {
+      "period": "post_20241029",
+      "name": "沪深300",
+      "start": "2024-10-29",
+      "end": "2026-09-30",
+      "n": 470,
+      "years": 1.9192728118989437,
+      "total": 0.1660487099485688,
+      "cagr": 0.08333167931759622,
+      "vol": 0.17010508647219938,
+      "mdd": -0.13255335989411177,
+      "worst_episode": {
+        "peak": "2026-06-22",
+        "trough": "2026-09-28",
+        "recovery": null,
+        "depth": -0.13255335989411177,
+        "underwater_days": 100,
+        "recovery_after_trough_days": null,
+        "censored": true
+      },
+      "longest_underwater": {
+        "peak": "2024-11-07",
+        "trough": "2025-04-07",
+        "recovery": "2025-07-21",
+        "depth": -0.13065457033185168,
+        "underwater_days": 256,
+        "recovery_after_trough_days": 105,
+        "censored": false
+      }
+    },
+    {
+      "period": "post_20241029",
+      "name": "中证全指",
+      "start": "2024-10-29",
+      "end": "2026-09-30",
+      "n": 470,
+      "years": 1.9192728118989437,
+      "total": 0.22655943351401509,
+      "cagr": 0.112268093290256,
+      "vol": 0.20215229157381195,
+      "mdd": -0.1582768045857449,
+      "worst_episode": {
+        "peak": "2026-05-13",
+        "trough": "2026-07-30",
+        "recovery": null,
+        "depth": -0.1582768045857449,
+        "underwater_days": 140,
+        "recovery_after_trough_days": null,
+        "censored": true
+      },
+      "longest_underwater": {
+        "peak": "2024-11-11",
+        "trough": "2025-04-07",
+        "recovery": "2025-07-14",
+        "depth": -0.14506842752714622,
+        "underwater_days": 245,
+        "recovery_after_trough_days": 98,
+        "censored": false
+      }
+    },
+    {
+      "period": "post_20241029",
+      "name": "300价值",
+      "start": "2024-10-29",
+      "end": "2026-09-30",
+      "n": 470,
+      "years": 1.9192728118989437,
+      "total": 0.10780910701492274,
+      "cagr": 0.05479385940457848,
+      "vol": 0.13180211814019716,
+      "mdd": -0.1154945732432936,
+      "worst_episode": {
+        "peak": "2026-01-06",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.1154945732432936,
+        "underwater_days": 267,
+        "recovery_after_trough_days": null,
+        "censored": true
+      },
+      "longest_underwater": {
+        "peak": "2026-01-06",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.1154945732432936,
+        "underwater_days": 267,
+        "recovery_after_trough_days": null,
+        "censored": true
+      }
+    },
+    {
+      "period": "post_20241029",
+      "name": "中证红利",
+      "start": "2024-10-29",
+      "end": "2026-09-30",
+      "n": 470,
+      "years": 1.9192728118989437,
+      "total": 0.11611320115995372,
+      "cagr": 0.0589061212060118,
+      "vol": 0.13893891173504783,
+      "mdd": -0.1444352100566466,
+      "worst_episode": {
+        "peak": "2026-03-12",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.1444352100566466,
+        "underwater_days": 202,
+        "recovery_after_trough_days": null,
+        "censored": true
+      },
+      "longest_underwater": {
+        "peak": "2026-03-12",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.1444352100566466,
+        "underwater_days": 202,
+        "recovery_after_trough_days": null,
+        "censored": true
+      }
+    },
+    {
+      "period": "post_20241029",
+      "name": "红利低波",
+      "start": "2024-10-29",
+      "end": "2026-09-30",
+      "n": 470,
+      "years": 1.9192728118989437,
+      "total": 0.13133062637227,
+      "cagr": 0.06640407535165282,
+      "vol": 0.12761915993122788,
+      "mdd": -0.14004587965979054,
+      "worst_episode": {
+        "peak": "2025-11-12",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.14004587965979054,
+        "underwater_days": 322,
+        "recovery_after_trough_days": null,
+        "censored": true
+      },
+      "longest_underwater": {
+        "peak": "2025-11-12",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.14004587965979054,
+        "underwater_days": 322,
+        "recovery_after_trough_days": null,
+        "censored": true
+      }
+    },
+    {
+      "period": "post_20241029",
+      "name": "红利质量",
+      "start": "2024-10-29",
+      "end": "2026-09-30",
+      "n": 470,
+      "years": 1.9192728118989437,
+      "total": 0.17431514261411984,
+      "cagr": 0.08732644014441004,
+      "vol": 0.18393028010573428,
+      "mdd": -0.1332126038993352,
+      "worst_episode": {
+        "peak": "2024-11-07",
+        "trough": "2025-04-07",
+        "recovery": "2025-07-15",
+        "depth": -0.1332126038993352,
+        "underwater_days": 250,
+        "recovery_after_trough_days": 99,
+        "censored": false
+      },
+      "longest_underwater": {
+        "peak": "2024-11-07",
+        "trough": "2025-04-07",
+        "recovery": "2025-07-15",
+        "depth": -0.1332126038993352,
+        "underwater_days": 250,
+        "recovery_after_trough_days": 99,
+        "censored": false
+      }
+    },
+    {
+      "period": "last_5y",
+      "name": "价值100",
+      "start": "2021-09-30",
+      "end": "2026-09-30",
+      "n": 1212,
+      "years": 4.999418194761015,
+      "total": 0.9578185421345498,
+      "cagr": 0.14382946152179432,
+      "vol": 0.18189204505485063,
+      "mdd": -0.15804744308106178,
+      "worst_episode": {
+        "peak": "2026-03-12",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.15804744308106178,
+        "underwater_days": 202,
+        "recovery_after_trough_days": null,
+        "censored": true
+      },
+      "longest_underwater": {
+        "peak": "2024-10-08",
+        "trough": "2025-04-07",
+        "recovery": "2025-07-21",
+        "depth": -0.13468243523561907,
+        "underwater_days": 286,
+        "recovery_after_trough_days": 105,
+        "censored": false
+      }
+    },
+    {
+      "period": "last_5y",
+      "name": "自由现金流",
+      "start": "2021-09-30",
+      "end": "2026-09-30",
+      "n": 1212,
+      "years": 4.999418194761015,
+      "total": 0.9820075312973562,
+      "cagr": 0.14664234273272525,
+      "vol": 0.20090687588364858,
+      "mdd": -0.24441564113091696,
+      "worst_episode": {
+        "peak": "2026-03-12",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.24441564113091696,
+        "underwater_days": 202,
+        "recovery_after_trough_days": null,
+        "censored": true
+      },
+      "longest_underwater": {
+        "peak": "2024-10-08",
+        "trough": "2025-04-07",
+        "recovery": "2025-08-12",
+        "depth": -0.15844401254153329,
+        "underwater_days": 308,
+        "recovery_after_trough_days": 127,
+        "censored": false
+      }
+    },
+    {
+      "period": "last_5y",
+      "name": "沪深300",
+      "start": "2021-09-30",
+      "end": "2026-09-30",
+      "n": 1212,
+      "years": 4.999418194761015,
+      "total": 0.015499980613392195,
+      "cagr": 0.003081312095735589,
+      "vol": 0.17857972898756452,
+      "mdd": -0.34403177791061434,
+      "worst_episode": {
+        "peak": "2021-12-13",
+        "trough": "2024-02-02",
+        "recovery": "2025-09-29",
+        "depth": -0.34403177791061434,
+        "underwater_days": 1386,
+        "recovery_after_trough_days": 605,
+        "censored": false
+      },
+      "longest_underwater": {
+        "peak": "2021-12-13",
+        "trough": "2024-02-02",
+        "recovery": "2025-09-29",
+        "depth": -0.34403177791061434,
+        "underwater_days": 1386,
+        "recovery_after_trough_days": 605,
+        "censored": false
+      }
+    },
+    {
+      "period": "last_5y",
+      "name": "中证全指",
+      "start": "2021-09-30",
+      "end": "2026-09-30",
+      "n": 1212,
+      "years": 4.999418194761015,
+      "total": 0.08193731698530549,
+      "cagr": 0.015877206609012706,
+      "vol": 0.20010271003998037,
+      "mdd": -0.3714219756863505,
+      "worst_episode": {
+        "peak": "2021-12-13",
+        "trough": "2024-02-05",
+        "recovery": "2025-08-22",
+        "depth": -0.3714219756863505,
+        "underwater_days": 1348,
+        "recovery_after_trough_days": 564,
+        "censored": false
+      },
+      "longest_underwater": {
+        "peak": "2021-12-13",
+        "trough": "2024-02-05",
+        "recovery": "2025-08-22",
+        "depth": -0.3714219756863505,
+        "underwater_days": 1348,
+        "recovery_after_trough_days": 564,
+        "censored": false
+      }
+    },
+    {
+      "period": "last_5y",
+      "name": "300价值",
+      "start": "2021-09-30",
+      "end": "2026-09-30",
+      "n": 1212,
+      "years": 4.999418194761015,
+      "total": 0.28643991935847923,
+      "cagr": 0.05167233021187867,
+      "vol": 0.16112116433958654,
+      "mdd": -0.23863052233093252,
+      "worst_episode": {
+        "peak": "2022-02-11",
+        "trough": "2022-10-31",
+        "recovery": "2024-05-17",
+        "depth": -0.23863052233093252,
+        "underwater_days": 826,
+        "recovery_after_trough_days": 564,
+        "censored": false
+      },
+      "longest_underwater": {
+        "peak": "2022-02-11",
+        "trough": "2022-10-31",
+        "recovery": "2024-05-17",
+        "depth": -0.23863052233093252,
+        "underwater_days": 826,
+        "recovery_after_trough_days": 564,
+        "censored": false
+      }
+    },
+    {
+      "period": "last_5y",
+      "name": "中证红利",
+      "start": "2021-09-30",
+      "end": "2026-09-30",
+      "n": 1212,
+      "years": 4.999418194761015,
+      "total": 0.34434813951261845,
+      "cagr": 0.060975465526668104,
+      "vol": 0.16048829496116868,
+      "mdd": -0.14529103581046576,
+      "worst_episode": {
+        "peak": "2024-05-21",
+        "trough": "2024-09-13",
+        "recovery": "2024-09-30",
+        "depth": -0.14529103581046576,
+        "underwater_days": 132,
+        "recovery_after_trough_days": 17,
+        "censored": false
+      },
+      "longest_underwater": {
+        "peak": "2023-05-08",
+        "trough": "2024-01-22",
+        "recovery": "2024-02-20",
+        "depth": -0.11117096991024467,
+        "underwater_days": 288,
+        "recovery_after_trough_days": 29,
+        "censored": false
+      }
+    },
+    {
+      "period": "last_5y",
+      "name": "红利低波",
+      "start": "2021-09-30",
+      "end": "2026-09-30",
+      "n": 1212,
+      "years": 4.999418194761015,
+      "total": 0.5082877214099417,
+      "cagr": 0.08567788969523549,
+      "vol": 0.16041455322211026,
+      "mdd": -0.14004587965979054,
+      "worst_episode": {
+        "peak": "2025-11-12",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.14004587965979054,
+        "underwater_days": 322,
+        "recovery_after_trough_days": null,
+        "censored": true
+      },
+      "longest_underwater": {
+        "peak": "2025-11-12",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.14004587965979054,
+        "underwater_days": 322,
+        "recovery_after_trough_days": null,
+        "censored": true
+      }
+    },
+    {
+      "period": "last_5y",
+      "name": "红利质量",
+      "start": "2021-09-30",
+      "end": "2026-09-30",
+      "n": 1212,
+      "years": 4.999418194761015,
+      "total": 0.16709327478597658,
+      "cagr": 0.03138942731416838,
+      "vol": 0.20052824523382182,
+      "mdd": -0.27960625645358983,
+      "worst_episode": {
+        "peak": "2021-12-24",
+        "trough": "2024-09-13",
+        "recovery": "2024-10-08",
+        "depth": -0.27960625645358983,
+        "underwater_days": 1019,
+        "recovery_after_trough_days": 25,
+        "censored": false
+      },
+      "longest_underwater": {
+        "peak": "2021-12-24",
+        "trough": "2024-09-13",
+        "recovery": "2024-10-08",
+        "depth": -0.27960625645358983,
+        "underwater_days": 1019,
+        "recovery_after_trough_days": 25,
+        "censored": false
+      }
+    }
+  ],
+  "rolling": [
+    {
+      "name": "价值100",
+      "horizon_years": 1.0,
+      "windows": 154,
+      "min_cumulative": -0.2448237850903343,
+      "max_cumulative": 1.276104814381847,
+      "median_annualized": 0.17084539809832644,
+      "min_annualized": -0.2448237850903343,
+      "max_annualized": 1.276104814381847,
+      "loss_share": 0.12987012987012986,
+      "beat_300_share": 0.7597402597402597,
+      "approx_nonoverlap": 13
+    },
+    {
+      "name": "自由现金流",
+      "horizon_years": 1.0,
+      "windows": 154,
+      "min_cumulative": -0.3586061619528417,
+      "max_cumulative": 1.4063339816548508,
+      "median_annualized": 0.19228251414930086,
+      "min_annualized": -0.3586061619528417,
+      "max_annualized": 1.4063339816548508,
+      "loss_share": 0.2012987012987013,
+      "beat_300_share": 0.7012987012987013,
+      "approx_nonoverlap": 13
+    },
+    {
+      "name": "沪深300",
+      "horizon_years": 1.0,
+      "windows": 154,
+      "min_cumulative": -0.3348876240644285,
+      "max_cumulative": 1.3042730743541324,
+      "median_annualized": 0.08350624306146359,
+      "min_annualized": -0.3348876240644285,
+      "max_annualized": 1.3042730743541324,
+      "loss_share": 0.38311688311688313,
+      "beat_300_share": 0.0,
+      "approx_nonoverlap": 13
+    },
+    {
+      "name": "中证全指",
+      "horizon_years": 1.0,
+      "windows": 154,
+      "min_cumulative": -0.3505371576301184,
+      "max_cumulative": 1.5463879054635918,
+      "median_annualized": 0.05052434325303312,
+      "min_annualized": -0.3505371576301184,
+      "max_annualized": 1.5463879054635918,
+      "loss_share": 0.37662337662337664,
+      "beat_300_share": 0.5454545454545454,
+      "approx_nonoverlap": 13
+    },
+    {
+      "name": "300价值",
+      "horizon_years": 1.0,
+      "windows": 154,
+      "min_cumulative": -0.27046023705740985,
+      "max_cumulative": 1.3139587499452627,
+      "median_annualized": 0.07400682517741142,
+      "min_annualized": -0.27046023705740985,
+      "max_annualized": 1.3139587499452627,
+      "loss_share": 0.2987012987012987,
+      "beat_300_share": 0.7012987012987013,
+      "approx_nonoverlap": 13
+    },
+    {
+      "name": "中证红利",
+      "horizon_years": 1.0,
+      "windows": 154,
+      "min_cumulative": -0.290993525403602,
+      "max_cumulative": 1.5190339512987245,
+      "median_annualized": 0.09328375903684694,
+      "min_annualized": -0.290993525403602,
+      "max_annualized": 1.5190339512987245,
+      "loss_share": 0.2077922077922078,
+      "beat_300_share": 0.6103896103896104,
+      "approx_nonoverlap": 13
+    },
+    {
+      "name": "红利低波",
+      "horizon_years": 1.0,
+      "windows": 154,
+      "min_cumulative": -0.2750291406456771,
+      "max_cumulative": 1.2812360300992922,
+      "median_annualized": 0.11552501791263314,
+      "min_annualized": -0.2750291406456771,
+      "max_annualized": 1.2812360300992922,
+      "loss_share": 0.15584415584415584,
+      "beat_300_share": 0.5974025974025974,
+      "approx_nonoverlap": 13
+    },
+    {
+      "name": "红利质量",
+      "horizon_years": 1.0,
+      "windows": 154,
+      "min_cumulative": -0.1806482480483308,
+      "max_cumulative": 1.1969821875788913,
+      "median_annualized": 0.13633464192485067,
+      "min_annualized": -0.1806482480483308,
+      "max_annualized": 1.1969821875788913,
+      "loss_share": 0.22077922077922077,
+      "beat_300_share": 0.7337662337662337,
+      "approx_nonoverlap": 13
+    },
+    {
+      "name": "价值100",
+      "horizon_years": 3.0,
+      "windows": 130,
+      "min_cumulative": -0.007226844294713097,
+      "max_cumulative": 1.5544692727923528,
+      "median_annualized": 0.16607144710706367,
+      "min_annualized": -0.0024147745406937204,
+      "max_annualized": 0.3669949001119128,
+      "loss_share": 0.007692307692307693,
+      "beat_300_share": 0.8461538461538461,
+      "approx_nonoverlap": 4
+    },
+    {
+      "name": "自由现金流",
+      "horizon_years": 3.0,
+      "windows": 130,
+      "min_cumulative": -0.04357982106718772,
+      "max_cumulative": 1.5213497786932502,
+      "median_annualized": 0.20121177917793787,
+      "min_annualized": -0.014742891742788866,
+      "max_annualized": 0.36106134327845973,
+      "loss_share": 0.007692307692307693,
+      "beat_300_share": 0.8615384615384616,
+      "approx_nonoverlap": 4
+    },
+    {
+      "name": "沪深300",
+      "horizon_years": 3.0,
+      "windows": 130,
+      "min_cumulative": -0.3587197021949642,
+      "max_cumulative": 0.799980466445015,
+      "median_annualized": 0.07085131118805865,
+      "min_annualized": -0.1376518571664831,
+      "max_annualized": 0.2164359988384994,
+      "loss_share": 0.23846153846153847,
+      "beat_300_share": 0.0,
+      "approx_nonoverlap": 4
+    },
+    {
+      "name": "中证全指",
+      "horizon_years": 3.0,
+      "windows": 130,
+      "min_cumulative": -0.3599961766212928,
+      "max_cumulative": 1.1263844277698554,
+      "median_annualized": 0.05696658670899213,
+      "min_annualized": -0.1382244079032222,
+      "max_annualized": 0.2859199310831182,
+      "loss_share": 0.34615384615384615,
+      "beat_300_share": 0.5384615384615384,
+      "approx_nonoverlap": 4
+    },
+    {
+      "name": "300价值",
+      "horizon_years": 3.0,
+      "windows": 130,
+      "min_cumulative": -0.13894271653817747,
+      "max_cumulative": 1.2111653276226342,
+      "median_annualized": 0.07711467520427673,
+      "min_annualized": -0.04864191157706754,
+      "max_annualized": 0.30278796690150034,
+      "loss_share": 0.1076923076923077,
+      "beat_300_share": 0.7153846153846154,
+      "approx_nonoverlap": 4
+    },
+    {
+      "name": "中证红利",
+      "horizon_years": 3.0,
+      "windows": 130,
+      "min_cumulative": -0.10215719139831148,
+      "max_cumulative": 1.2277591089033137,
+      "median_annualized": 0.09099557614681597,
+      "min_annualized": -0.03528261970725832,
+      "max_annualized": 0.30603879041949833,
+      "loss_share": 0.038461538461538464,
+      "beat_300_share": 0.7076923076923077,
+      "approx_nonoverlap": 4
+    },
+    {
+      "name": "红利低波",
+      "horizon_years": 3.0,
+      "windows": 130,
+      "min_cumulative": -0.0656749300055588,
+      "max_cumulative": 1.1530592373617314,
+      "median_annualized": 0.11167602385320463,
+      "min_annualized": -0.022389177559976048,
+      "max_annualized": 0.29127475243162637,
+      "loss_share": 0.038461538461538464,
+      "beat_300_share": 0.7230769230769231,
+      "approx_nonoverlap": 4
+    },
+    {
+      "name": "红利质量",
+      "horizon_years": 3.0,
+      "windows": 130,
+      "min_cumulative": -0.1662794995364062,
+      "max_cumulative": 1.4285144975666304,
+      "median_annualized": 0.17715422754947163,
+      "min_annualized": -0.058818258395203604,
+      "max_annualized": 0.34414741184125486,
+      "loss_share": 0.11538461538461539,
+      "beat_300_share": 0.9,
+      "approx_nonoverlap": 4
+    },
+    {
+      "name": "价值100",
+      "horizon_years": 5.0,
+      "windows": 106,
+      "min_cumulative": 0.2758585198913537,
+      "max_cumulative": 2.36691178560882,
+      "median_annualized": 0.15640586298015335,
+      "min_annualized": 0.049930383128951705,
+      "max_annualized": 0.2748126007795628,
+      "loss_share": 0.0,
+      "beat_300_share": 1.0,
+      "approx_nonoverlap": 2
+    },
+    {
+      "name": "自由现金流",
+      "horizon_years": 5.0,
+      "windows": 106,
+      "min_cumulative": -0.09421626186837273,
+      "max_cumulative": 2.469813531298009,
+      "median_annualized": 0.18024565567198614,
+      "min_annualized": -0.019596385145891237,
+      "max_annualized": 0.28251137962754136,
+      "loss_share": 0.02830188679245283,
+      "beat_300_share": 0.9150943396226415,
+      "approx_nonoverlap": 2
+    },
+    {
+      "name": "沪深300",
+      "horizon_years": 5.0,
+      "windows": 106,
+      "min_cumulative": -0.1141956366538256,
+      "max_cumulative": 1.0662679063299492,
+      "median_annualized": 0.047229292540022616,
+      "min_annualized": -0.02396011958672173,
+      "max_annualized": 0.15621161012956208,
+      "loss_share": 0.0660377358490566,
+      "beat_300_share": 0.0,
+      "approx_nonoverlap": 2
+    },
+    {
+      "name": "中证全指",
+      "horizon_years": 5.0,
+      "windows": 106,
+      "min_cumulative": -0.32471952192532527,
+      "max_cumulative": 0.9110834188535406,
+      "median_annualized": 0.041092575370458295,
+      "min_annualized": -0.07552145010499944,
+      "max_annualized": 0.138297884926339,
+      "loss_share": 0.04716981132075472,
+      "beat_300_share": 0.4716981132075472,
+      "approx_nonoverlap": 2
+    },
+    {
+      "name": "300价值",
+      "horizon_years": 5.0,
+      "windows": 106,
+      "min_cumulative": -0.09254993109406184,
+      "max_cumulative": 1.6533302193872337,
+      "median_annualized": 0.06075384996693978,
+      "min_annualized": -0.01923592915408856,
+      "max_annualized": 0.21550922901525005,
+      "loss_share": 0.02830188679245283,
+      "beat_300_share": 0.6320754716981132,
+      "approx_nonoverlap": 2
+    },
+    {
+      "name": "中证红利",
+      "horizon_years": 5.0,
+      "windows": 106,
+      "min_cumulative": -0.1114860471033956,
+      "max_cumulative": 1.5237399013369557,
+      "median_annualized": 0.09484526365688728,
+      "min_annualized": -0.023363726616900005,
+      "max_annualized": 0.20339698432306763,
+      "loss_share": 0.02830188679245283,
+      "beat_300_share": 0.8207547169811321,
+      "approx_nonoverlap": 2
+    },
+    {
+      "name": "红利低波",
+      "horizon_years": 5.0,
+      "windows": 106,
+      "min_cumulative": -0.10391792370264585,
+      "max_cumulative": 1.5944682187269779,
+      "median_annualized": 0.10482737214137416,
+      "min_annualized": -0.021705621217053217,
+      "max_annualized": 0.21006770677352127,
+      "loss_share": 0.02830188679245283,
+      "beat_300_share": 0.7924528301886793,
+      "approx_nonoverlap": 2
+    },
+    {
+      "name": "红利质量",
+      "horizon_years": 5.0,
+      "windows": 106,
+      "min_cumulative": 0.07485643656997731,
+      "max_cumulative": 2.5364317872364848,
+      "median_annualized": 0.14498884822759672,
+      "min_annualized": 0.014542143989743073,
+      "max_annualized": 0.28739867292649013,
+      "loss_share": 0.0,
+      "beat_300_share": 0.9905660377358491,
+      "approx_nonoverlap": 2
+    },
+    {
+      "name": "价值100",
+      "horizon_years": 10.0,
+      "windows": 46,
+      "min_cumulative": 1.887987431615341,
+      "max_cumulative": 4.873184811735532,
+      "median_annualized": 0.16808707680169932,
+      "min_annualized": 0.11188412571901618,
+      "max_annualized": 0.19367848648325947,
+      "loss_share": 0.0,
+      "beat_300_share": 1.0,
+      "approx_nonoverlap": 1
+    },
+    {
+      "name": "自由现金流",
+      "horizon_years": 10.0,
+      "windows": 46,
+      "min_cumulative": 1.9910051284677999,
+      "max_cumulative": 5.968707250053022,
+      "median_annualized": 0.17983396625001313,
+      "min_annualized": 0.11578807550762327,
+      "max_annualized": 0.21426987885381155,
+      "loss_share": 0.0,
+      "beat_300_share": 1.0,
+      "approx_nonoverlap": 1
+    },
+    {
+      "name": "沪深300",
+      "horizon_years": 10.0,
+      "windows": 46,
+      "min_cumulative": -0.009365108618440754,
+      "max_cumulative": 1.267518184154595,
+      "median_annualized": 0.06192599886163985,
+      "min_annualized": -0.0009404811676534397,
+      "max_annualized": 0.0853131818896038,
+      "loss_share": 0.043478260869565216,
+      "beat_300_share": 0.0,
+      "approx_nonoverlap": 1
+    },
+    {
+      "name": "中证全指",
+      "horizon_years": 10.0,
+      "windows": 46,
+      "min_cumulative": -0.20712227052904097,
+      "max_cumulative": 1.2095860829110712,
+      "median_annualized": 0.049176797083585355,
+      "min_annualized": -0.0229413769850636,
+      "max_annualized": 0.08250794517242688,
+      "loss_share": 0.06521739130434782,
+      "beat_300_share": 0.15217391304347827,
+      "approx_nonoverlap": 1
+    },
+    {
+      "name": "300价值",
+      "horizon_years": 10.0,
+      "windows": 46,
+      "min_cumulative": 0.39357333451084053,
+      "max_cumulative": 2.0012450676888007,
+      "median_annualized": 0.08516423920879468,
+      "min_annualized": 0.03374395455738699,
+      "max_annualized": 0.1161694870151666,
+      "loss_share": 0.0,
+      "beat_300_share": 0.9782608695652174,
+      "approx_nonoverlap": 1
+    },
+    {
+      "name": "中证红利",
+      "horizon_years": 10.0,
+      "windows": 46,
+      "min_cumulative": 0.5488224151092764,
+      "max_cumulative": 2.8343351827188106,
+      "median_annualized": 0.10705320378751249,
+      "min_annualized": 0.044720610189860954,
+      "max_annualized": 0.14384981810174535,
+      "loss_share": 0.0,
+      "beat_300_share": 1.0,
+      "approx_nonoverlap": 1
+    },
+    {
+      "name": "红利低波",
+      "horizon_years": 10.0,
+      "windows": 46,
+      "min_cumulative": 0.8094416472721,
+      "max_cumulative": 2.901481778133761,
+      "median_annualized": 0.1154478867509302,
+      "min_annualized": 0.0610954645014854,
+      "max_annualized": 0.14583730718657906,
+      "loss_share": 0.0,
+      "beat_300_share": 1.0,
+      "approx_nonoverlap": 1
+    },
+    {
+      "name": "红利质量",
+      "horizon_years": 10.0,
+      "windows": 46,
+      "min_cumulative": 1.2802853194412385,
+      "max_cumulative": 4.878129714193823,
+      "median_annualized": 0.1504038671426079,
+      "min_annualized": 0.08592271865946977,
+      "max_annualized": 0.19377894966811327,
+      "loss_share": 0.0,
+      "beat_300_share": 1.0,
+      "approx_nonoverlap": 1
+    }
+  ],
+  "relative": {
+    "自由现金流": {
+      "start": "2012-12-31",
+      "end": "2026-09-30",
+      "n": 3339,
+      "years": 13.747031082089297,
+      "total": 0.02228796071765804,
+      "cagr": 0.0016047753433678924,
+      "vol": 0.08449690151715784,
+      "mdd": -0.4092860127757927,
+      "worst_episode": {
+        "peak": "2020-07-07",
+        "trough": "2024-04-12",
+        "recovery": null,
+        "depth": -0.4092860127757927,
+        "underwater_days": 2276,
+        "recovery_after_trough_days": null,
+        "censored": true
+      },
+      "longest_underwater": {
+        "peak": "2020-07-07",
+        "trough": "2024-04-12",
+        "recovery": null,
+        "depth": -0.4092860127757927,
+        "underwater_days": 2276,
+        "recovery_after_trough_days": null,
+        "censored": true
+      }
+    },
+    "沪深300": {
+      "start": "2012-12-31",
+      "end": "2026-09-30",
+      "n": 3339,
+      "years": 13.747031082089297,
+      "total": 2.422656192105002,
+      "cagr": 0.0936319181723948,
+      "vol": 0.12088021774892914,
+      "mdd": -0.3345769596480238,
+      "worst_episode": {
+        "peak": "2018-08-08",
+        "trough": "2021-02-10",
+        "recovery": "2021-09-09",
+        "depth": -0.3345769596480238,
+        "underwater_days": 1128,
+        "recovery_after_trough_days": 211,
+        "censored": false
+      },
+      "longest_underwater": {
+        "peak": "2018-08-08",
+        "trough": "2021-02-10",
+        "recovery": "2021-09-09",
+        "depth": -0.3345769596480238,
+        "underwater_days": 1128,
+        "recovery_after_trough_days": 211,
+        "censored": false
+      }
+    },
+    "中证全指": {
+      "start": "2012-12-31",
+      "end": "2026-09-30",
+      "n": 3339,
+      "years": 13.747031082089297,
+      "total": 2.1597991098574467,
+      "cagr": 0.08729331720871492,
+      "vol": 0.14697601911506608,
+      "mdd": -0.27201932240772597,
+      "worst_episode": {
+        "peak": "2024-09-26",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.27201932240772597,
+        "underwater_days": 734,
+        "recovery_after_trough_days": null,
+        "censored": true
+      },
+      "longest_underwater": {
+        "peak": "2019-01-31",
+        "trough": "2021-02-10",
+        "recovery": "2022-03-07",
+        "depth": -0.26907851415495143,
+        "underwater_days": 1131,
+        "recovery_after_trough_days": 390,
+        "censored": false
+      }
+    },
+    "300价值": {
+      "start": "2012-12-31",
+      "end": "2026-09-30",
+      "n": 3339,
+      "years": 13.747031082089297,
+      "total": 1.548919578248066,
+      "cagr": 0.0704331639438891,
+      "vol": 0.09554341070541894,
+      "mdd": -0.1531550261603214,
+      "worst_episode": {
+        "peak": "2020-08-03",
+        "trough": "2021-02-05",
+        "recovery": "2021-07-14",
+        "depth": -0.1531550261603214,
+        "underwater_days": 345,
+        "recovery_after_trough_days": 159,
+        "censored": false
+      },
+      "longest_underwater": {
+        "peak": "2018-07-02",
+        "trough": "2019-11-15",
+        "recovery": "2020-07-30",
+        "depth": -0.1338181337368558,
+        "underwater_days": 759,
+        "recovery_after_trough_days": 258,
+        "censored": false
+      }
+    },
+    "中证红利": {
+      "start": "2012-12-31",
+      "end": "2026-09-30",
+      "n": 3339,
+      "years": 13.747031082089297,
+      "total": 1.0918972486393597,
+      "cagr": 0.05515694067151289,
+      "vol": 0.0861303701935103,
+      "mdd": -0.2067155795175234,
+      "worst_episode": {
+        "peak": "2015-01-13",
+        "trough": "2015-06-12",
+        "recovery": "2017-04-25",
+        "depth": -0.2067155795175234,
+        "underwater_days": 833,
+        "recovery_after_trough_days": 683,
+        "censored": false
+      },
+      "longest_underwater": {
+        "peak": "2018-06-21",
+        "trough": "2021-07-12",
+        "recovery": "2022-04-12",
+        "depth": -0.12466817838436273,
+        "underwater_days": 1391,
+        "recovery_after_trough_days": 274,
+        "censored": false
+      }
+    },
+    "红利低波": {
+      "start": "2012-12-31",
+      "end": "2026-09-30",
+      "n": 3339,
+      "years": 13.747031082089297,
+      "total": 0.6745329536631024,
+      "cagr": 0.03821355490221534,
+      "vol": 0.0836266089885169,
+      "mdd": -0.15345784197541368,
+      "worst_episode": {
+        "peak": "2013-01-04",
+        "trough": "2014-02-27",
+        "recovery": "2016-11-29",
+        "depth": -0.15345784197541368,
+        "underwater_days": 1425,
+        "recovery_after_trough_days": 1006,
+        "censored": false
+      },
+      "longest_underwater": {
+        "peak": "2013-01-04",
+        "trough": "2014-02-27",
+        "recovery": "2016-11-29",
+        "depth": -0.15345784197541368,
+        "underwater_days": 1425,
+        "recovery_after_trough_days": 1006,
+        "censored": false
+      }
+    },
+    "红利质量": {
+      "start": "2012-12-31",
+      "end": "2026-09-30",
+      "n": 3339,
+      "years": 13.747031082089297,
+      "total": 0.21258597060210827,
+      "cagr": 0.014120354398233559,
+      "vol": 0.154410035959818,
+      "mdd": -0.5365484634969573,
+      "worst_episode": {
+        "peak": "2015-01-05",
+        "trough": "2021-02-10",
+        "recovery": "2024-09-13",
+        "depth": -0.5365484634969573,
+        "underwater_days": 3539,
+        "recovery_after_trough_days": 1311,
+        "censored": false
+      },
+      "longest_underwater": {
+        "peak": "2015-01-05",
+        "trough": "2021-02-10",
+        "recovery": "2024-09-13",
+        "depth": -0.5365484634969573,
+        "underwater_days": 3539,
+        "recovery_after_trough_days": 1311,
+        "censored": false
+      }
+    }
+  },
+  "dividend_wedge": [
+    {
+      "period": "all",
+      "start": "2012-12-31",
+      "end": "2026-09-30",
+      "tr_cagr": 0.16463101838257543,
+      "pr_cagr": 0.11403846848388821,
+      "reinvestment_log_contribution_per_year": 0.04441264167057151,
+      "reinvestment_geometric_wedge": 0.045413647131538726,
+      "total_wedge": 0.8414291194143326
+    },
+    {
+      "period": "post_20241029",
+      "start": "2024-10-29",
+      "end": "2026-09-30",
+      "tr_cagr": 0.11827412046656272,
+      "pr_cagr": 0.06802425203124773,
+      "reinvestment_log_contribution_per_year": 0.045976084757310284,
+      "reinvestment_geometric_wedge": 0.04704937021771394,
+      "total_wedge": 0.0922509400157221
+    },
+    {
+      "period": "last5y",
+      "start": "2021-09-30",
+      "end": "2026-09-30",
+      "tr_cagr": 0.14382946152179432,
+      "pr_cagr": 0.08870541602079518,
+      "reinvestment_log_contribution_per_year": 0.04939251109668273,
+      "reinvestment_geometric_wedge": 0.05063265479332024,
+      "total_wedge": 0.28009439161482197
+    }
+  ],
+  "fund": {
+    "ETF净值": {
+      "start": "2025-06-30",
+      "end": "2026-09-30",
+      "n": 306,
+      "years": 1.251223502193748,
+      "total": 0.13339999999999996,
+      "cagr": 0.10525890832543494,
+      "vol": 0.1350494680355024,
+      "mdd": -0.16449866688212011,
+      "worst_episode": {
+        "peak": "2026-03-12",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.16449866688212011,
+        "underwater_days": 202,
+        "recovery_after_trough_days": null,
+        "censored": true
+      },
+      "longest_underwater": {
+        "peak": "2026-03-12",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.16449866688212011,
+        "underwater_days": 202,
+        "recovery_after_trough_days": null,
+        "censored": true
+      }
+    },
+    "指数全收益": {
+      "start": "2025-06-30",
+      "end": "2026-09-30",
+      "n": 306,
+      "years": 1.251223502193748,
+      "total": 0.16706769987435321,
+      "cagr": 0.13142130411586406,
+      "vol": 0.13585407791665538,
+      "mdd": -0.15804744308106178,
+      "worst_episode": {
+        "peak": "2026-03-12",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.15804744308106178,
+        "underwater_days": 202,
+        "recovery_after_trough_days": null,
+        "censored": true
+      },
+      "longest_underwater": {
+        "peak": "2026-03-12",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.15804744308106178,
+        "underwater_days": 202,
+        "recovery_after_trough_days": null,
+        "censored": true
+      }
+    },
+    "指数价格": {
+      "start": "2025-06-30",
+      "end": "2026-09-30",
+      "n": 306,
+      "years": 1.251223502193748,
+      "total": 0.09360258399832055,
+      "cagr": 0.07413093217821043,
+      "vol": 0.13589960102275758,
+      "mdd": -0.17057488371703322,
+      "worst_episode": {
+        "peak": "2026-03-12",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.17057488371703322,
+        "underwater_days": 202,
+        "recovery_after_trough_days": null,
+        "censored": true
+      },
+      "longest_underwater": {
+        "peak": "2026-03-12",
+        "trough": "2026-06-30",
+        "recovery": null,
+        "depth": -0.17057488371703322,
+        "underwater_days": 202,
+        "recovery_after_trough_days": null,
+        "censored": true
+      }
+    },
+    "calculated_te_total_return": 0.014848731663992103
+  },
+  "constituents": {
+    "top10_weight": 47.65,
+    "top3_weight": 22.76,
+    "hhi": 0.03282311,
+    "effective_count": 30.466339112899416,
+    "sector_weights": {
+      "可选消费": 35.0,
+      "金融": 20.28,
+      "原材料": 16.0,
+      "工业": 14.86,
+      "电信业务": 4.13,
+      "能源": 3.3499999999999996,
+      "公用事业": 3.26,
+      "医药卫生": 2.66,
+      "主要消费": 0.22,
+      "信息技术": 0.19
+    },
+    "fcf_shared_names": 40,
+    "fcf_weight_overlap": 0.36469999999999997
+  },
+  "entry": [
+    {
+      "years": 3.0,
+      "strategy": "lump",
+      "windows": 130,
+      "median_cumulative": 0.585533793775658,
+      "min_cumulative": -0.007226844294713208,
+      "loss_share": 0.007692307692307693,
+      "beats_lump_share": null
+    },
+    {
+      "years": 3.0,
+      "strategy": "4quarter",
+      "windows": 130,
+      "median_cumulative": 0.5272394078502435,
+      "min_cumulative": 0.0395465469403129,
+      "loss_share": 0.0,
+      "beats_lump_share": 0.2846153846153846
+    },
+    {
+      "years": 3.0,
+      "strategy": "12monthly",
+      "windows": 130,
+      "median_cumulative": 0.4975391250863411,
+      "min_cumulative": 0.012309028024082735,
+      "loss_share": 0.0,
+      "beats_lump_share": 0.2692307692307692
+    },
+    {
+      "years": 5.0,
+      "strategy": "lump",
+      "windows": 106,
+      "median_cumulative": 1.0680067990477629,
+      "min_cumulative": 0.2758585198913537,
+      "loss_share": 0.0,
+      "beats_lump_share": null
+    },
+    {
+      "years": 5.0,
+      "strategy": "4quarter",
+      "windows": 106,
+      "median_cumulative": 0.9228254739227989,
+      "min_cumulative": 0.2708843088752724,
+      "loss_share": 0.0,
+      "beats_lump_share": 0.32075471698113206
+    },
+    {
+      "years": 5.0,
+      "strategy": "12monthly",
+      "windows": 106,
+      "median_cumulative": 0.9144910212000453,
+      "min_cumulative": 0.2996918301426885,
+      "loss_share": 0.0,
+      "beats_lump_share": 0.29245283018867924
+    },
+    {
+      "years": 10.0,
+      "strategy": "lump",
+      "windows": 46,
+      "median_cumulative": 3.728813776015015,
+      "min_cumulative": 1.887987431615341,
+      "loss_share": 0.0,
+      "beats_lump_share": null
+    },
+    {
+      "years": 10.0,
+      "strategy": "4quarter",
+      "windows": 46,
+      "median_cumulative": 3.381825453619808,
+      "min_cumulative": 2.4975281303613137,
+      "loss_share": 0.0,
+      "beats_lump_share": 0.32608695652173914
+    },
+    {
+      "years": 10.0,
+      "strategy": "12monthly",
+      "windows": 46,
+      "median_cumulative": 3.3200364365990023,
+      "min_cumulative": 2.429669073704908,
+      "loss_share": 0.0,
+      "beats_lump_share": 0.2826086956521739
+    }
+  ],
+  "scenarios": [
+    {
+      "scenario": "悲观",
+      "years": 5,
+      "eps_growth": -0.02,
+      "payout": 0.3,
+      "starting_pe": 8.3532,
+      "terminal_pe": 6.0,
+      "initial_dividend_yield": 0.03591438011779917,
+      "cumulative_return": -0.20282477669829435,
+      "annualized_return": -0.04432382668556345,
+      "cost_assumption": 0.002
+    },
+    {
+      "scenario": "悲观",
+      "years": 10,
+      "eps_growth": -0.02,
+      "payout": 0.3,
+      "starting_pe": 8.3532,
+      "terminal_pe": 6.0,
+      "initial_dividend_yield": 0.03591438011779917,
+      "cumulative_return": -0.12132154936854589,
+      "annualized_return": -0.012850346174661409,
+      "cost_assumption": 0.002
+    },
+    {
+      "scenario": "基准",
+      "years": 5,
+      "eps_growth": 0.02,
+      "payout": 0.4,
+      "starting_pe": 8.3532,
+      "terminal_pe": 8.0,
+      "initial_dividend_yield": 0.04788584015706556,
+      "cumulative_return": 0.33067529137957097,
+      "annualized_return": 0.058801184671596785,
+      "cost_assumption": 0.002
+    },
+    {
+      "scenario": "基准",
+      "years": 10,
+      "eps_growth": 0.02,
+      "payout": 0.4,
+      "starting_pe": 8.3532,
+      "terminal_pe": 8.0,
+      "initial_dividend_yield": 0.04788584015706556,
+      "cumulative_return": 0.8470068811623672,
+      "annualized_return": 0.06327805690962096,
+      "cost_assumption": 0.002
+    },
+    {
+      "scenario": "乐观",
+      "years": 5,
+      "eps_growth": 0.05,
+      "payout": 0.45,
+      "starting_pe": 8.3532,
+      "terminal_pe": 10.0,
+      "initial_dividend_yield": 0.05387157017669875,
+      "cumulative_return": 0.9161030687861782,
+      "annualized_return": 0.13889522809660937,
+      "cost_assumption": 0.002
+    },
+    {
+      "scenario": "乐观",
+      "years": 10,
+      "eps_growth": 0.05,
+      "payout": 0.45,
+      "starting_pe": 8.3532,
+      "terminal_pe": 10.0,
+      "initial_dividend_yield": 0.05387157017669875,
+      "cumulative_return": 2.0797153255944116,
+      "annualized_return": 0.11905403475534215,
+      "cost_assumption": 0.002
+    }
+  ],
+  "qa": {
+    "domestic_common_rows": 3339,
+    "common_start": "2012-12-31",
+    "common_end": "2026-09-30",
+    "weights_sum": 0.9995,
+    "duplicates": 0,
+    "missing_after_alignment": 0,
+    "calendar_removed_csi_only_dates": [
+      "2018-06-18"
+    ]
+  }
+}

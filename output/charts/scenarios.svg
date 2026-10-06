@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="617.6775pt" height="278.13pt" viewBox="0 0 617.6775 278.13" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-05T18:03:59.248225</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 278.13 
+L 617.6775 278.13 
+L 617.6775 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 41.41 237.93 
+L 610.4775 237.93 
+L 610.4775 7.2 
+L 41.41 7.2 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 67.276705 167.707826 
+L 132.422479 167.707826 
+L 132.422479 212.172333 
+L 67.276705 212.172333 
+z
+" clip-path="url(#pf9e01b3cd2)" style="fill: #76bac2"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 258.881923 167.707826 
+L 324.027698 167.707826 
+L 324.027698 108.720012 
+L 258.881923 108.720012 
+z
+" clip-path="url(#pf9e01b3cd2)" style="fill: #76bac2"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 450.487142 167.707826 
+L 515.632917 167.707826 
+L 515.632917 28.371757 
+L 450.487142 28.371757 
+z
+" clip-path="url(#pf9e01b3cd2)" style="fill: #76bac2"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 136.254583 167.707826 
+L 201.400358 167.707826 
+L 201.400358 180.598958 
+L 136.254583 180.598958 
+z
+" clip-path="url(#pf9e01b3cd2)" style="fill: #087e8b"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 327.859802 167.707826 
+L 393.005577 167.707826 
+L 393.005577 104.22893 
+L 327.859802 104.22893 
+z
+" clip-path="url(#pf9e01b3cd2)" style="fill: #087e8b"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 519.465021 167.707826 
+L 584.610795 167.707826 
+L 584.610795 48.275924 
+L 519.465021 48.275924 
+z
+" clip-path="url(#pf9e01b3cd2)" style="fill: #087e8b"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m35b63d8427" d="M 0 0 
+L 0 3.5 
+" style="stroke: #42566a; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m35b63d8427" x="134.338531" y="237.93" style="fill: #42566a; stroke: #42566a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'Noto Sans CJK SC'; text-anchor: middle; fill: #42566a" x="134.338531" y="254.61" transform="rotate(-0 134.338531 254.61)">悲观</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m35b63d8427" x="325.94375" y="237.93" style="fill: #42566a; stroke: #42566a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'Noto Sans CJK SC'; text-anchor: middle; fill: #42566a" x="325.94375" y="254.61" transform="rotate(-0 325.94375 254.61)">基准</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m35b63d8427" x="517.548969" y="237.93" style="fill: #42566a; stroke: #42566a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'Noto Sans CJK SC'; text-anchor: middle; fill: #42566a" x="517.548969" y="254.61" transform="rotate(-0 517.548969 254.61)">乐观</text>
+     </g>
+    </g>
+    <g id="text_4">
+     <text style="font-size: 11px; font-family: 'Noto Sans CJK SC'; text-anchor: middle; fill: #42566a" x="325.94375" y="269.61" transform="rotate(-0 325.94375 269.61)">条件化模型 · 假设，不是预测 · 仅扣0.20%年费</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4">
+      <defs>
+       <path id="madc1b954d4" d="M 0 0 
+L -3.5 0 
+" style="stroke: #42566a; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#madc1b954d4" x="41.41" y="217.866522" style="fill: #42566a; stroke: #42566a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'Noto Sans CJK SC'; text-anchor: end; fill: #42566a" x="34.41" y="222.706522" transform="rotate(-0 34.41 222.706522)">-5</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#madc1b954d4" x="41.41" y="167.707826" style="fill: #42566a; stroke: #42566a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'Noto Sans CJK SC'; text-anchor: end; fill: #42566a" x="34.41" y="172.547826" transform="rotate(-0 34.41 172.547826)">0</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#madc1b954d4" x="41.41" y="117.54913" style="fill: #42566a; stroke: #42566a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 11px; font-family: 'Noto Sans CJK SC'; text-anchor: end; fill: #42566a" x="34.41" y="122.38913" transform="rotate(-0 34.41 122.38913)">5</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#madc1b954d4" x="41.41" y="67.390435" style="fill: #42566a; stroke: #42566a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'Noto Sans CJK SC'; text-anchor: end; fill: #42566a" x="34.41" y="72.230435" transform="rotate(-0 34.41 72.230435)">10</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#madc1b954d4" x="41.41" y="17.231739" style="fill: #42566a; stroke: #42566a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 11px; font-family: 'Noto Sans CJK SC'; text-anchor: end; fill: #42566a" x="34.41" y="22.071739" transform="rotate(-0 34.41 22.071739)">15</text>
+     </g>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 11px; font-family: 'Noto Sans CJK SC'; text-anchor: middle; fill: #42566a" x="16.88" y="122.565" transform="rotate(-90 16.88 122.565)">假设年化收益（%）</text>
+    </g>
+   </g>
+   <g id="line2d_9">
+    <path d="M 41.41 167.707826 
+L 610.4775 167.707826 
+" clip-path="url(#pf9e01b3cd2)" style="fill: none; stroke: #b0bdc7; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 41.41 237.93 
+L 41.41 7.2 
+" style="fill: none; stroke: #b0bdc7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 41.41 237.93 
+L 610.4775 237.93 
+" style="fill: none; stroke: #b0bdc7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK SC'; text-anchor: middle; fill: #173347" x="99.849592" y="225.988202" transform="rotate(-0 99.849592 225.988202)">-4.43%</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK SC'; text-anchor: middle; fill: #173347" x="291.454811" y="103.005729" transform="rotate(-0 291.454811 103.005729)">5.88%</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK SC'; text-anchor: middle; fill: #173347" x="483.060029" y="22.657474" transform="rotate(-0 483.060029 22.657474)">13.89%</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK SC'; text-anchor: middle; fill: #173347" x="168.827471" y="194.414828" transform="rotate(-0 168.827471 194.414828)">-1.29%</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK SC'; text-anchor: middle; fill: #173347" x="360.432689" y="98.514648" transform="rotate(-0 360.432689 98.514648)">6.33%</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK SC'; text-anchor: middle; fill: #173347" x="552.037908" y="42.561642" transform="rotate(-0 552.037908 42.561642)">11.91%</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_11">
+     <path d="M 49.11 49 
+L 107.52 49 
+Q 109.72 49 109.72 46.8 
+L 109.72 14.9 
+Q 109.72 12.7 107.52 12.7 
+L 49.11 12.7 
+Q 46.91 12.7 46.91 14.9 
+L 46.91 46.8 
+Q 46.91 49 49.11 49 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="patch_12">
+     <path d="M 51.31 26.78 
+L 73.31 26.78 
+L 73.31 19.08 
+L 51.31 19.08 
+z
+" style="fill: #76bac2"/>
+    </g>
+    <g id="text_17">
+     <text style="font-size: 11px; font-family: 'Noto Sans CJK SC'; text-anchor: start; fill: #173347" x="82.11" y="26.78" transform="rotate(-0 82.11 26.78)">5年</text>
+    </g>
+    <g id="patch_13">
+     <path d="M 51.31 43.28 
+L 73.31 43.28 
+L 73.31 35.58 
+L 51.31 35.58 
+z
+" style="fill: #087e8b"/>
+    </g>
+    <g id="text_18">
+     <text style="font-size: 11px; font-family: 'Noto Sans CJK SC'; text-anchor: start; fill: #173347" x="82.11" y="43.28" transform="rotate(-0 82.11 43.28)">10年</text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf9e01b3cd2">
+   <rect x="41.41" y="7.2" width="569.0675" height="230.73"/>
+  </clipPath>
+ </defs>
+</svg>

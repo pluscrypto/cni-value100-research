@@ -1,0 +1,1 @@
+{"code":200,"message":"根据指数code查询当前指数成功！","data":{"indexcode":"980081","indextype":"202","indexsource":"0","indexname":"价值100","indexename":"CNIV100","indexfullename":"CNI Value 100 Index","indexfullcname":"国证价值100指数","jr":"2012-12-31","realtimemarket":"1","showdetail":"1","dataSource":0,"onlineIndexList":null},"total":0,"sampleDate":""}

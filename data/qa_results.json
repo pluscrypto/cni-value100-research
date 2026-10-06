@@ -1,0 +1,27 @@
+{
+  "html_sections": 13,
+  "figures": 12,
+  "unique_ids": true,
+  "missing_internal_targets": [],
+  "missing_local_downloads": [],
+  "key_assertions": true,
+  "embedded_csv_matches": true,
+  "numeric_independent_checks": {
+    "total_return_matches": true,
+    "common_rows": 3339,
+    "nulls": 0,
+    "duplicate_dates": 0,
+    "constituents": 100
+  },
+  "手机_overflow": false,
+  "手机_page_errors": [],
+  "手机_controls": "filters, rolling tabs, zoom, CSV download passed",
+  "桌面_overflow": false,
+  "桌面_page_errors": [],
+  "桌面_controls": "filters, rolling tabs, zoom, CSV download passed",
+  "pptx_slides": 20,
+  "pptx_geometry_overflow": [],
+  "zip_office_integrity": "passed",
+  "workbook_sheets": 30,
+  "qa_note": "PPTX checked as OOXML and geometry; no LibreOffice installed for native full rendering. HTML actually rendered with Chromium set_content on mobile and desktop; environment policy blocks file:// navigation."
+}

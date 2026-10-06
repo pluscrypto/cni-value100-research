@@ -1,0 +1,1 @@
+{"code":"200","msg":"Success","data":[{"indexCode":"921468","indexNameCn":"红利质量全收益","indexNameEn":"Dividend Quality TRI"}],"success":true}
