@@ -8,7 +8,7 @@
 - [20页结论版PPTX](output/国证价值100_结论版.pptx)
 - [来源登记](data/sources.csv)与[原始证据校验清单](data/evidence_manifest.csv)
 
-在线阅读：[现有私有网页](https://cni-value100-research-20261005.xingzouj.chatgpt.site)（需要原账户访问）。本仓库为私有仓库，不启用GitHub Pages。
+在线阅读：[现有私有网页](https://cni-value100-research-20261005.xingzouj.chatgpt.site)（需要原账户访问）。本仓库公开；上面的在线阅读入口仍为现有私有网页。公开报告可从下方下载，或按本地阅读方法打开。
 
 GitHub中的HTML文件页显示源码。可下载HTML后用浏览器打开，或本地运行：
 
